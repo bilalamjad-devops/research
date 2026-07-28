@@ -69,3 +69,36 @@ Isi sequence ke mutabiq aapke pichle MCQ 10 ka jawab **Stage 2 = Vulnerability M
 
 Ab agla MCQ bhejein!
 28-July-2026
+
+
+---
+
+
+### Correct Answer: **C. Running the scanner**
+
+---
+
+### Concept Samjhen:
+
+# **VM Cycle** ka matlab hai **Vulnerability Management Cycle**.
+
+Jab vulnerability scanner (jaise *Nessus* ya *Qualys*) chalta hai, toh wo pure network par sabhi computers, servers, aur devices ko continuously probe / ping karta hai aur thousands of security packets bhejta hai.
+
+Sawal yeh pooch raha hai ke **VM cycle ke kis step (marhale) mein network slow ho sakta hai (performance degradation ho sakti hai)?**
+
+---
+
+### "Running the scanner" Mein Network Slow Kyun Hota Hai?
+
+1. **High Traffic Burden:** Jab scanner run hota hai (**Running the scanner**), toh wo network bandwidth par bohot zyada heavy automated traffic bhejta hai.
+2. **Port Scanning & Probing:** Scanner har IP address ke hazaron open ports ko ek sath scan karta hai, jisse network devices (routers, switches, firewalls) aur internet line par bohot load parhta hai.
+3. **Slowdown Effect:** Isi waja se jab scanning live chal rahi hoti hai, toh normal users ke liye network slow ya unstable lagne lagta hai (degradation hoti hai).
+
+---
+
+> **Exam Memory Tip:**
+> Hamesha yaad rakhein ke scanner chalanay (**Running the scanner**) se hi network par load parhta hai aur speed slow (degrade) hoti hai! Isliye scanning hamesha office hours ke baad (off-peak hours) ki jaati hai.
+
+---
+
+Aap agla MCQ paste karein!
