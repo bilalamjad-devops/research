@@ -26,4 +26,46 @@ Jab kisi company ke **multiple sites / branches** hon (jaise alag alag cities ya
 
 Aap agla MCQ bhejein!
 
+---
+---
+
+# Security Transformation Stages 
+
+CS205 (Virtual University) ke curriculum ke mutabiq **Security Transformation Framework ki total 4 Stages (jaise Layers bhi kaha jata hai)** hoti hain:
+
+---
+
+### Security Transformation Ki 4 Stages:
+
+1. **Stage 1: Security Hardening**
+* Base level par system ko secure karna (Minimum Security Baseline set karna, unused services ko off karna).
+
+
+2. **Stage 2: Vulnerability Management**
+* Known bugs, kamzoriyon aur security gaps ko dhoond kar unhe **patch/fix** karna.
+
+
+3. **Stage 3: Security Engineering**
+* Main security architecture design karna, solutions aur high-level technical controls ko integrate karna.
+
+
+4. **Stage 4: Security Governance**
+* High-level policies, procedures, compliance aur standards (jaise ISO 27001) ko implement karna.
+
+
+
+---
+
+### Sequence Yaad Rakhne Ka Tarika:
+
+**Hardening → Vulnerability Management → Engineering → Governance**
+
+* **Stage 1:** Hardening
+* **Stage 2:** Vulnerability Management
+* **Stage 3:** Engineering
+* **Stage 4:** Governance
+
+Isi sequence ke mutabiq aapke pichle MCQ 10 ka jawab **Stage 2 = Vulnerability Management** tha!
+
+Ab agla MCQ bhejein!
 28-July-2026
