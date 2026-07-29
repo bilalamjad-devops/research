@@ -160,4 +160,79 @@ Aapke CS205 course mein C++ Security Hardening ke jo **10 Rules / Guidelines** h
 
 Yeh 10 rules C++ application ko **Hardening** (secure) karne aur hacker attacks se bachane ke liye **Coding Best Practices** hain!
 
+---
+
+
+CS205 ke curriculum ke mutabiq **Security Transformation** ke andar do distinct concepts aate hain: **4 Layers / Stages** aur **3 Pillars**.
+
+---
+
+## 1. Security Transformation Ki 4 Stages (Layers)
+
+Yeh woh **4 Layers** hain jin par security program step-by-step build hota hai:
+
+1. **Stage 1: Security Hardening (Foundation)**
+* **Maqsad:** Systems ka basic risk reduce karna aur Minimum Security Baseline (MSB) set karna.
+* **Steps:**
+1. Asset inventory compiled karna.
+2. Minimum Security Baseline (MSB) tayyar karna.
+3. Research benchmarks & security controls.
+4. **Pilot / Test** environment mein try karna.
+5. Live environment mein implement aur monitor karna.
+
+
+
+
+2. **Stage 2: Vulnerability Management**
+* **Maqsad:** Continuous scanning ke zariye system bugs aur gaps dhoond kar unhe fix/patch karna.
+* **Steps:**
+1. Scanning tools (jaise Nessus, Qualys) setup karna.
+2. Automated Vulnerability Assessments karna.
+3. Prioritize & Remediate (Fix) karna.
+4. Reports banana aur cycle repeat karna.
+
+
+
+
+3. **Stage 3: Security Engineering**
+* **Maqsad:** Complex aur enterprise-level security architecture design karna.
+* **Steps:**
+1. Enterprise risk profile assess karna.
+2. Security solutions (SIEM, Next-Gen Firewalls, DLP) research karna.
+3. Architecture design karna aur technical controls integrate karna.
+4. Posture test aur validate karna.
+
+
+
+
+4. **Stage 4: Security Governance**
+* **Maqsad:** High-level strategic oversight, compliance, aur management controls chalana.
+* **Steps:**
+1. Information Security Policies aur SOPs banana.
+2. International standards (ISO 27001, CIS) implement karna.
+3. Incident management, change management, aur audits.
+4. Training & Security Awareness programs chalana.
+
+
+
+
+
+---
+
+## 2. Information Security Ke 3 Pillars (PPT Framework)
+
+Agar paper mein **"Pillars of Information Security"** pucha jaye, toh woh **People, Process, Technology** hotay hain:
+
+* 🧑‍💻 **People:** Trained employees jo policies follow karte hain aur phishing/social engineering se bachte hain.
+* ⚙️ **Process:** Defined rules, workflows, aur SOPs (Change management, Incident response, Backup policies).
+* 🛠️ **Technology:** Hardening, tools, firewalls, aur encryption jo assets ko physically/logically secure rakhte hain.
+
+---
+
+> **Exam Summary:**
+> * **Stages / Layers:** Hardening $\rightarrow$ Vulnerability Mgmt $\rightarrow$ Security Engineering $\rightarrow$ Governance
+> * **Pillars:** People, Process, Technology
+> 
+>
+
 29-July-2026
