@@ -1,3 +1,69 @@
+In donon questions (**Q No 10 & 11**) ke main points bilkul clear aur asaan Urdu/English mein summarize kar diye gaye hain:
+
+---
+
+## Q No 10: Roles & Responsibilities in Security Governance
+
+Yeh topic is baat par focus karta hai ke Security Governance ko chalane ke liye sahi logon ko sahi jagah par kaise set kiya jaye:
+
+### Main Exam Checklist Questions:
+
+1. **Right Person at Right Place:** Kya sahi banda sahi position par kaam kar raha hai?
+2. **Right Skills & Experience:** Kya security policies aur SOPs likhne walay logon ke paas required skills hain?
+3. **Staff Awareness:** Kya tamaam staff members ko apni security governance responsibilities (Policies, SOPs, Checklists) ka pata hai?
+4. **JDs & Appraisal:** Kya security documentation aur process follow karna employees ki Job Description (JD) aur Performance Appraisal ka hissa hai?
+
+---
+
+## Q No 11: Four-Layer Security Transformation Model (Most Important)
+
+Exam mein is Model ke **4 Layers ka Correct Order (Sequence)** aur unka **Main Purpose** baar baar MCQ / Short Question mein pucha jata hai:
+
+1. **Layer 1: Security Hardening:** IT Assets par pehle basic security controls lagana.
+IT assets (servers, OS, databases) aur processes ki basic security settings tight karna.
+
+
+2. **Layer 2: Vulnerability Management:** Kamzoriyaan dhoondna aur Patching karna.
+Systems ko scan karna aur naye patches/updates install karke bugs fix karna.
+
+
+3. **Layer 3: Security Engineering:** Complex Security Design & Tools.
+Advanced security architecture, Firewalls, DMZ, VLANs, aur SIEM tools design aur deploy karna.
+
+
+4. **Layer 4: Security Governance:** Policies, Compliance, aur Management.
+Overall Information Security Program ko manage karna, policies likhna, aur ISO certifications hasil karna.
+
+
+---
+
+### **Exam Summary Table:**
+
+| Layer | Focus | Example Activity |
+| --- | --- | --- |
+| **Layer 1** | Security Hardening | Default passwords change karna, ports close karna |
+| **Layer 2** | Vulnerability Management | Vulnerability scanning aur Patching |
+| **Layer 3** | Security Engineering | DMZ, Firewalls, IPS, Encryption |
+| **Layer 4** | Security Governance | Policies, SOPs, ISO Certification |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Correct Answer: **D. Environment where multiple sites are present**
 
 ---
