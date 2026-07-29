@@ -236,3 +236,8 @@ Agar paper mein **"Pillars of Information Security"** pucha jaye, toh woh **Peop
 >
 
 29-July-2026
+
+
+Q. 41. ...... which team has primary owner ship in vulnerability management?
+
+ANS: Information security team
