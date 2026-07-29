@@ -241,3 +241,7 @@ Agar paper mein **"Pillars of Information Security"** pucha jaye, toh woh **Peop
 Q. 41. ...... which team has primary owner ship in vulnerability management?
 
 ANS: Information security team
+
+Q. 42. Steps involved in vulnerability management?
+
+Ans: Identify, classify, remediate, and mitigate the vulnerability
