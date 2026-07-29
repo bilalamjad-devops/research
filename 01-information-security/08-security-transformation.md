@@ -330,3 +330,34 @@ Computer security 4 hisson mein banti hoti hai:
 ---
 
 Ab batao, kya ab clear hua? Jab aap ready hon, agla topic ya MCQ bhejein!
+
+
+---
+---
+---
+
+Yeh topic **CS205 ke Topic 283 (Key Leadership Qualities of InfoSec Head)** se hai, jo Security Transformation Program chalanay walay Head ki qualities par mabni hai.
+
+Exam mein aksar kisi quality ka **Name** ya uski **Definition / Key Phrase** match karne ke liye aati hai.
+
+---
+
+### **InfoSec Head Ki 6 Key Leadership Qualities:**
+
+| Quality / Trait | Key Meaning (Exam Key Phrases) |
+| --- | --- |
+| **1. Authenticity** | Real rehna. Yeh manna ke koi ek banda sab kuch nahi jaan sakta ("No one knows-it-all"), apni mistakes admit karna, aur doosron ko credit dena. |
+| **2. Candidness** | **"Call a spade a spade"** (Sidhi baat karna), honesty, straight-talk, aur sab ke views ko respect dena. |
+| **3. Fairness & Fair Play** | Performance aur **merit** ko promote karna, team ko unki strengths ke mutabiq sahi position par lagana. |
+| **4. Team Environment** | **Solo-flight (akaylay kaam karna) ko discourage karna**, team consensus aur achievements ko promote karna. |
+| **5. Recognize Talent & Hard Work** | Self-promotion (sirf baatein karne walay) aur genuine talent/hard work ke darmeyan farq samajhna. |
+| **6. Celebrating Success** | Team ki achhi performance aur milestones ko celebrate karna taake unka morale high rahe. |
+
+---
+
+### **Exam Key Phrases (Jo MCQs Mein Pootchay Jatay Hain):**
+
+* **"Call a spade a spade"** $\rightarrow$ **Candidness**
+* **"No one knows-it-all / Admit mistakes"** $\rightarrow$ **Authenticity**
+* **"Promote merit & right player in right position"** $\rightarrow$ **Fairness & Fair Play**
+* **"Discourage solo-flight"** $\rightarrow$ **Team Environment**
