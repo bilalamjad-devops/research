@@ -102,3 +102,62 @@ Sawal yeh pooch raha hai ke **VM cycle ke kis step (marhale) mein network slow h
 ---
 
 Aap agla MCQ paste karein!
+
+---
+
+# Yeh C++ language mein **Secure Coding Standards** (misaal ke taur par **SEI CERT C++ Rules**) ke major categories / guidelines hain.
+
+Aapke CS205 course mein C++ Security Hardening ke jo **10 Rules / Guidelines** hain, yeh unhi ka breakdown hai. Inka maqsad yeh hota hai ke programmer code likhte waqt aisi ghaltiyan na kare jisse software mein security bugs (vulnerabilities) paida hon.
+
+---
+
+### **10 Rules Ka Simple Explanation:**
+
+1. **Rule 01: Declarations and Initialization (DCL)**
+* Variable ko use karne se pehle sahi tarike se declare aur initialize karna taake memory mein koi garbage values na chalein.
+
+
+2. **Rule 02: Expressions (EXP)**
+* Mathematical aur logical operations (jaise comparison, assignment) ko correctly likhna taake un-expected behavior na ho.
+
+
+3. **Rule 03: Integers (INT)**
+* Numbers ki calculation mein **Integer Overflow** se bachna (jab koi number variable ki capacity se bada ho jaye).
+
+
+4. **Rule 04: Containers (CTR)**
+* Arrays, Vectors, ya Data Structures ke boundaries check karna taake Out-of-bounds error na aaye.
+
+
+5. **Rule 05: Characters and Strings (STR)**
+* Text/String manipulation mein **Buffer Overflow** se bachna (C++ mein sab se ziada security bugs strings handle karne mein aate hain).
+
+
+6. **Rule 06: Memory Management (MEM)**
+* Dynamic memory (`new`/`delete`, `malloc`/`free`) ko sahi tareeqe se clean karna taake **Memory Leaks** ya **Use-After-Free** ke bugs na hon.
+
+
+7. **Rule 07: Input Output (FIO)**
+* Files aur user inputs ko safely read/write karna (Injection attacks aur malicious inputs se bachne ke liye).
+
+
+8. **Rule 08: Exceptions and Error Handling (ERR)**
+* Code mein aane wale errors aur crashes ko proper catch karna taake app secure tariqe se fail ho, koi sensitive data leak na ho.
+
+
+9. **Rule 09: Object Oriented Programming (OOP)**
+* Classes, Inheritance, aur Abstraction ko securely design karna taake private/protected data exploit na ho sake.
+
+
+10. **Rule 10: Concurrency (CON)**
+* Multi-threading (jab multiple tasks ek sath chalte hain) ko securely handle karna taake **Race Conditions** aur **Deadlocks** na banen.
+
+
+
+---
+
+### **Summary (Exam Point of View):**
+
+Yeh 10 rules C++ application ko **Hardening** (secure) karne aur hacker attacks se bachane ke liye **Coding Best Practices** hain!
+
+29-July-2026
