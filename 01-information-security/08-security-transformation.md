@@ -50,6 +50,14 @@ Overall Information Security Program ko manage karna, policies likhna, aur ISO c
 
 
 
+### **Quick Recap Table for CS205 Exam:**
+
+| Term / Abbreviation | Full Name | Main Purpose |
+| --- | --- | --- |
+| **DMZ** | Demilitarized Zone | Network isolation for public servers |
+| **FW** | Firewall | Traffic filtering based on rules |
+| **IPS** | Intrusion Prevention System | Active attack detection & blocking |
+| **App-DB Encryption** | Application-Database Encryption | Data scrambling for security |
 
 
 
