@@ -53,6 +53,9 @@ This video explains how proxy firewalls break connection paths at the applicatio
 ---
 ---
 
+<img width="1024" height="791" alt="5-types-of-firewalls-1024x791 jpeg" src="https://github.com/user-attachments/assets/a061b89a-01a5-4469-a591-73d1120c21dc" />
+
+
 **Bilkul sahi pakde hain!** Exactly right.
 
 Firewalls aur Proxies OSI model ki mukhtalif layers par kaam karti hain. Firewall jitni **upper layer (jaise Layer 7)** par operate karegi, wo utni hi zyada **smart aur secure** filtering karegi, jabke **lower layers (jaise Layer 3/4)** par filter tezz (fast) hota hai par deep inspection nahi kar pata.
