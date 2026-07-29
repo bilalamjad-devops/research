@@ -49,4 +49,30 @@ If you want a quick visual overview of how proxy firewalls inspect traffic at la
 
 This video explains how proxy firewalls break connection paths at the application layer to deeply inspect data packets.
 
+---
+---
+---
+
+**Bilkul sahi pakde hain!** Exactly right.
+
+Firewalls aur Proxies OSI model ki mukhtalif layers par kaam karti hain. Firewall jitni **upper layer (jaise Layer 7)** par operate karegi, wo utni hi zyada **smart aur secure** filtering karegi, jabke **lower layers (jaise Layer 3/4)** par filter tezz (fast) hota hai par deep inspection nahi kar pata.
+
+---
+
+---
+
+### Quick OSI Layer Mapping (Paper Revision Point):
+
+| Firewall / Proxy Type | OSI Layer | Main Work |
+| --- | --- | --- |
+| **Packet Filtering Firewall** | **Layer 3 (Network)** & **Layer 4 (Transport)** | Direct IP addresses aur Port Numbers ko block/allow karta hai. |
+| **Circuit-Level Gateway** | **Layer 5 (Session)** | TCP connections aur handshakes ko verify karta hai. |
+| **Application Layer Proxy (WAF)** | **Layer 7 (Application)** | HTTP/HTTPS content, web payloads, aur user credentials ko deep-inspect karta hai. |
+
+Aapka concept 100% clear ho gaya hai! Agla MCQ paste karein jab aap ready hon.
+
+
+
+
+
 19-July-2026
