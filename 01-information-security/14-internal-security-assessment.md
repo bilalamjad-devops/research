@@ -1,3 +1,6 @@
+<img width="1024" height="791" alt="5-types-of-firewalls-1024x791 jpeg" src="https://github.com/user-attachments/assets/ed4dc6d1-64ec-4e65-a02f-ef644966ff0e" />
+
+
 **Internal Security Assessment** (ya Security Assessment) ka matlab hota hai apni hi organization ke IT systems, applications, networks, aur processes ko systematically check aur evaluate karna taake unki **security posture, risks, aur vulnerabilities** ko dhoond kar fix kiya ja sake.
 
 CS205 ke course ke mutabiq iske main points yeh hain:
