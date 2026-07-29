@@ -82,3 +82,89 @@ CIS Controls framework mein assets aur software ki list rakhne ke liye 2 foundat
 Ab poori baat samajh aa gayi? Jab aap ready hon, agla MCQ share karein!
 
 29-July-2026
+
+
+Yeh diagram **CIS Critical Security Controls (Center for Internet Security Controls)** ke **sab se pehle 2 basic rules (foundational controls)** ko dikha raha hai.
+
+In short: **Security ka pehla aur sab se buniyadi asool yeh hai ke pehle pata toh ho ke organization mein KYA KYA chal raha hai!**
+
+---
+
+### Iska Simple Matlab Kya Hai?
+
+Jab bhi aap kisi organization ki cyber security tight karte hain, toh pehle do kaam sab se pehle kiye jaate hain:
+
+1. **CIS Control 1: Enterprise Hardware Inventory (Devices Ka Hisab-Kitaab)**
+* **Sawal:** Aapke network par kitne physical devices connect hain?
+* **Details:** Laptops, Desktops, Servers, Routers, Mobile devices.
+* **Maqsad:** Agar kisi device ka pata hi nahi hoga (unauthorized laptop), toh aap use secure kaise karenge?
+
+
+2. **CIS Control 2: Software Assets Inventory (Software & Versions Ka Hisab-Kitaab)**
+* **Sawal:** Un sabhi devices par kaun kaun se software aur unke kaunse versions chal rahe hain?
+* **Details:** Approved/Authorized Apps (jaise MS Office v16, Chrome v120) vs Unapproved Apps (Torrent, Cracked Games).
+* **Maqsad:** Purane software versions aur ghalat apps mein sab se zyada security bugs (vulnerabilities) hotay hain. Unhe block aur update karna!
+
+
+
+---
+
+### Real-Life Analogy (Ghar Ki Security):
+
+* **CIS Control 1 (Hardware):** Ghar ke saare **Darwazay aur Khidkiyaan (Entry Points)** ginna taake sab par taala lagaya ja sake.
+* **CIS Control 2 (Software):** Ghar ke andar **kaun kaun se log (Software)** reh rahe hain aur unke paas **chabiyaan (Versions/Permissions)** konsi hain unka hisab rakhna.
+
+---
+
+### Exam Summary:
+
+Yeh dono **CIS Top 18 / Top 20 Controls** ke **Basic/Foundational Controls** hain jo har security model ki **Buniyaad (Foundation)** hote hain.
+
+---
+
+Aao isay step-by-step simple words mein samjhte hain taake yeh hamesha ke liye clear ho jaye!
+
+---
+
+### 1. **Qualys Kya Hai? (The Tool)**
+
+Qualys ek **Automated Software Tool** hai jo poore network ko scan karta hai.
+
+* **Sochien:** Qualys ek **Digital Security Guard** ya **Inspector** ki tarah hai jo aap ke hazaron computers aur servers ko automated check karta hai.
+
+---
+
+### 2. **CIS aur DISA Kya Hain? (The Rules / Standards)**
+
+Qualys ek Inspector zaroor hai, lekin jab tak aap inspector ko **"Security Rules / Checklist"** nahi denge, use kaise pata chalega ke computer secure hai ya nahi?
+
+Yeh **Rules** pehle se security experts ne banaye hain:
+
+* **CIS (Center for Internet Security):** Global industry ke sab se best rules (Checklist). Jaise: *"Windows 11 ka password kam se kam 12 characters ka hona chahiye"*, ya *"Unused WiFi networks ko block karna chahiye"*.
+* **DISA (Defense Information Systems Agency):** Army aur Military-grade high security rules (Checklist).
+
+---
+
+### 3. **Qualys Ko CIS aur DISA Ki Kyun Zaroorat Hai? (Why Built-in Library?)**
+
+Maan lijiye aapki company mein **5,000 Computers** hain. Agar aapko check karna ho ke un sab par security rules apply hue hain ya nahi, toh:
+
+1. **Agar Built-in Rules NA HO (Without CIS/DISA Library):**
+Aapko manually 5,000 rules likhne parenge, jismein mahino lag jayenge aur ghalti ka chance hoga.
+2. **Built-in CIS/DISA Library Ka Faida (With Built-in Library):**
+Qualys ke andar yeh saare rules **pehle se bane hue** (built-in) hain!
+Aap bas Qualys mein **"CIS Benchmark Policy"** select karte hain aur **Start Scan** dabate hain. Qualys foran 5,000 computers ko scan karke ek minute mein report de deta hai ke:
+* *"Computer 12 me Password policy ghalat hai"*
+* *"Computer 45 me Windows Firewall OFF hai"*
+
+
+
+---
+
+### **Simple Summary for Exam:**
+
+> **Qualys** = Scanning Tool (Inspecting Engine)
+> **CIS / DISA** = Rules & Security Checklists (Standard Books)
+> **Qualys ke andar CIS aur DISA ki built-in policies isliye hoti hain taake aapko khud se security rules na likhne paren, aur aap international security standards ke mutabiq 1-click scanning kar sakein.**
+
+Clear ho gaya? Jab aap ready hon, agla MCQ share karein!
