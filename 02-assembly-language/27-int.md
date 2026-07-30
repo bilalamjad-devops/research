@@ -52,3 +52,10 @@ INT for arithmetic overflow is
 - INT 0
 - INT 1
 
+88. Single step interrupt is
+- Hardware interrupt
+- like divide by zero interrupt (Page 133)
+- like divide by 1 interrupt
+- Software interrupt
+
+
