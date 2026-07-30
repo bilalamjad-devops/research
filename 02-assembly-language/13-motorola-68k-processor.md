@@ -29,7 +29,7 @@ Motorola **68000 (68K)** processor family ek 16/32-bit CISC architecture par mab
 ---
 
 
-23. Motorola 68K processors have ......................23bit general purpose registers.
+23. Motorola 68K processors have ...................... 32 bit general purpose registers.
 - 4
 - 8
 - 16 (Page 191)
