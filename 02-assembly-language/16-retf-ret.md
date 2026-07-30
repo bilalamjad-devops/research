@@ -35,5 +35,8 @@ Assembly language mein subroutine (function) se wapas aane ke liye do tarah ke r
 > **Exam Tip:**
 > * **`RET`** $\rightarrow$ Updates **IP** (Instruction Pointer)
 > * **`RETF`** $\rightarrow$ Updates **IP** AND **CS** (Code Segment)
-> 
->
+
+15. RETF will pop the segment address in the
+ CS register (Page 72)
+ DS register
+ SS register
