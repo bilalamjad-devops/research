@@ -42,3 +42,11 @@ Aapne jo tip likhi hai, usme ek choti si correction hai. Motorola 68K processor 
 
 
 Total General Purpose Registers: **16** (8 Data + 8 Address)
+
+
+50. Motorola 68K processors have ......................23bit general purpose registers.
+- 4
+- 8
+- 16 (Page 191) rep
+- 32
+
