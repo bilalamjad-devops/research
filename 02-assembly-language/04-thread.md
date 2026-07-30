@@ -56,3 +56,44 @@ Agla MCQ paste karein!
 
 Ab Thread ka concept clear ho gaya? Agla question paste karein!
 
+---
+---
+---
+
+
+29. Threads can have function calls, parameters and _ variables.
+- Global
+- Local (Page 141)
+- Legal
+- Illegal
+
+Asaan alfaz mein samjhte hain!
+
+Aap **DevOps / Programming** mein **Multithreading** ya Functions to zaroor use karte honge. Bilkul wahi concept hai!
+
+---
+
+### **Real-Life Example (Chef / Kitchen):**
+
+Sochein ek kitchen (Process) hai jisme **2 Chefs (Threads)** kaam kar rahe hain:
+
+1. **Global Variables (Shared):** Kitchen ka **Main Fridge ya Stove**. Dono chefs isse aapas mein share karte hain.
+2. **Local Variables (Private):** Har chef ka apna **Katne wala Board (Cutting Board) ya Pocket**. Chef 1 ke board par jo pyaz rakha hai, wo Chef 2 ke board par nahi hota!
+
+---
+
+### **Computer Mein Kya Hota Hai?**
+
+Jab ek **Thread** chalta hai:
+
+* Uske apne **Functions** hote hain.
+* Un functions ke **Parameters** hote hain.
+* Aur unke andar banne wale **Local Variables** us thread ke apne private hote hain (uske apne Stack mein hote hain).
+
+---
+
+### **Aapke Sawal Ka Direct Answer:**
+
+> Threads ke paas apne function calls, parameters aur **Local** variables hote hain.
+
+*(Kyunke local variables har thread ke apne private hote hain, baki threads ke sath share nahi hote).*
