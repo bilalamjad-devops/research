@@ -81,3 +81,23 @@ Hardware Interrupts (IRQs) ke fixed channels hotay hain:
 > Keyboard ka IRQ hamesha **IRQ 1** hota hai aur iska Interrupt Vector **INT 9** hota hai.
 
 30-July-2026
+
+
+24. When two devices in the system want to use the same IRQ line then what will happen?
+- An IRQ Collision
+- An IRQ Conflict (Page 114)
+- An IRQ Crash
+- An IRQ Blockage
+
+### **Question 24 Answer:**
+
+**Sahi Option:** **An IRQ Conflict**
+
+#### **Concept (Samajhne ke liye):**
+
+`IRQ` (Interrupt Request) ek hardware line hoti hai jisse devices (jaise Keyboard, Mouse, Sound Card) CPU ka dhyan apni taraf khinchte hain.
+
+* Agar do alag devices (jaise Sound Card aur Network Card) **ek hi IRQ line** ko use karne ki koshish karein, toh ise hardware terminology mein **IRQ Conflict** kehte hain.
+* Iski wajah se dono devices crash ya properly kaam karna band kar sakti hain.
+
+---
