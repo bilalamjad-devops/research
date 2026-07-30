@@ -33,3 +33,28 @@ Aap System ko batate hain ke **kya kaam karna hai** (`AH = 01h` matlb: *keyboard
 System kaam khatam karne ke baad **natija (result) kis register mein wapas rakhega** (`AL` register mein).
 
 ---
+
+
+
+
+
+
+
+
+
+
+Aap ne bilkul sahi statement di hai!
+
+Sahi Option / Answer **True** hai (ya agar options me **`AX or AL`** ho toh wahi choose karna hai).
+
+---
+
+### **1-Line Memory Trick (I/O Instructions):**
+
+* **`IN` Instruction (Data Input):** Port se data **leta** hai $\rightarrow$ Result hamesha **`AL`** (8-bit) ya **`AX`** (16-bit) mein aata hai.
+* **`OUT` Instruction (Data Output):** Port ko data **bhejta** hai $\rightarrow$ Source data hamesha **`AL`** (8-bit) ya **`AX`** (16-bit) se jata hai.
+
+---
+
+> **Exam Rule:**
+> Hardware Ports ke sath data exchange karne ke liye **sirf aur sirf Accumulator (`AL` / `AX`)** registers hi use ho sakte hain!
