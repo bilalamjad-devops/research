@@ -86,3 +86,10 @@ DB-9 connector (RS-232 Serial Port) par Total **9 Pins** hoti hain. Exam mein ak
 - 2 (Page 171)
 - 3
 - 4
+
+
+69. Pin for parallel port ground is
+- 10-18
+- 18-25 (Page 125 ) rep
+- 25-32
+- 32-39
