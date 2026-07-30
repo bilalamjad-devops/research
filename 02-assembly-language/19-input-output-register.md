@@ -35,7 +35,9 @@ System kaam khatam karne ke baad **natija (result) kis register mein wapas rakhe
 ---
 
 
+72. OUT instruction uses
 
+AX or AL as source register. (Page 115)
 
 
 
