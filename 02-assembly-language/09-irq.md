@@ -101,3 +101,21 @@ Hardware Interrupts (IRQs) ke fixed channels hotay hain:
 * Iski wajah se dono devices crash ya properly kaam karna band kar sakti hain.
 
 ---
+
+37. IRQ is referred to
+- `Eight input signals`
+- One output signal
+- One input signals
+- Eight output signals
+
+38. Which of the following IRQs is derived by a key board?
+- IRQ 0
+- IRQ 1 (Page 113) rep
+- IRQ 2
+- IRQ 3
+
+39. Which of the following IRQs is connected to serial port COM 1?
+- IRQ 4 (page 114)
+- IRQ 5
+- IRQ 6
+- IRQ 7
