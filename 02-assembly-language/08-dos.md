@@ -79,3 +79,24 @@ Donoh mein farq kya hai?
 Ratta / Shortcut Rule:
 
 Typed letters ka Actual Count hamesha Second Byte (doosri jagah) mein store hota hai.
+
+---
+
+Sahi Option Hai: **Character based**
+
+---
+
+91. MS DOS uses display mode.
+- Character based (Page 79)
+- Graphics based
+- Numeric based
+- Console based
+
+### **1-Line Memory Trick:**
+
+* **MS-DOS** = **Character-based / Text mode** (Video Memory address `0xB8000` par direct character aur ASCII codes write hotay hain).
+
+---
+
+> **Exam Shortcut:**
+> Modern OS (Windows/Mac) **Graphics-based (GUI)** hotay hain, jabke purana **MS-DOS** sirf **Character-based (Text Mode)** hota tha!
