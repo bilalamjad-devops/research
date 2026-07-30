@@ -77,3 +77,11 @@ Jab aap graphics mode mein screen par ek **akela pixel (Chota sa Dot)** draw ya 
 - High-level programming language
 - Also known as machine language
 - not considered closer to the computer
+
+
+42. The number of bits required to access 1MB of memory are
+- 16 bits
+- 32 bits
+- depends on the processor architecture (Page 20)
+- 20 bits
+
