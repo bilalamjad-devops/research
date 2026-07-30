@@ -75,4 +75,14 @@ DB-9 connector (RS-232 Serial Port) par Total **9 Pins** hoti hain. Exam mein ak
 - 4
 
 
+47. In 9pin DB 9, which pin number is assigned to CTS (Clear to send)?
+- 6
+- 7
+- 8 (Page 171)
+- 9
 
+48. In 9pin DB 9, which pin number is assigned to RD (Received Data)?
+- 1
+- 2 (Page 171)
+- 3
+- 4
