@@ -54,5 +54,12 @@ DB-9 connector (RS-232 Serial Port) par Total **9 Pins** hoti hain. Exam mein ak
 > * Sab se **pehli pin (Pin 1)** $\rightarrow$ **CD** (Carrier Detect)
 > * Bilkul **center wali pin (Pin 5)** $\rightarrow$ **GND** (Ground)
 > * Sab se **aakhri pin (Pin 9)** $\rightarrow$ **RI** (Ring Indicator)
-> 
->
+
+
+33. The serial port connection is a ------------------ connector
+- 9pin DB 9 (Page 171)
+- 8pin DB 9
+- 3pin DB 9
+- 9pin DB 5
+
+
