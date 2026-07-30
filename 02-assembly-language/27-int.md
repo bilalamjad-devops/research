@@ -44,3 +44,11 @@ INT for arithmetic overflow is
 | **INT 2** | NMI (Non-Maskable Interrupt - Power Failure/Hardware Error) |
 | **INT 3** | Breakpoint (Debugging) |
 | **INT 4** | **Arithmetic Overflow** |
+
+
+82. Which of the following interrupts is Non mask able interrupt
+- INT 2 (Page 105)
+- INT 3
+- INT 0
+- INT 1
+
