@@ -21,3 +21,15 @@ Toh key press ka result hamesha **`AL`** register mein hi wapas milta hai.
 
 * **Sawal:** INT 21h Service 01h character read karne ke baad result kis register mein wapas degi?
 * **Jawab:** **`AL`** register mein!
+
+
+### **Yeh Concept Kya Hai?**
+
+Jab bhi hum OS / System se koi kaam karwate hain (jaise Keyboard input), CPU registers ke do fixed role hote hain:
+
+1. **Input Register (`AH`):**
+Aap System ko batate hain ke **kya kaam karna hai** (`AH = 01h` matlb: *keyboard input le kar aao*).
+2. **Return / Output Register (`AL`):**
+System kaam khatam karne ke baad **natija (result) kis register mein wapas rakhega** (`AL` register mein).
+
+---
