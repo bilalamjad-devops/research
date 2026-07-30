@@ -1,3 +1,14 @@
+61. In STOSW instruction, When DI is cleared, SI is
+- Incremented by 1
+- Incremented by 2 (Page 92)
+- Decremented by 1
+- Decremented by 2
+
+
+
+
+
+
 Sahi Option Hai: **Incremented by 2**
 
 ---
