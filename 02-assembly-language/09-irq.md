@@ -158,8 +158,17 @@ Tension mat lo, agar koi MCQ ajeeb lage toh mujhe bol do, hum usko simple real-l
 - One output signal
 
 65. IRQ for keyboard is
-1 (Page 114)
+- 1 (Page 114)
 
+66. IRQ for sound card is
+
+- 5 (Page 114)
+
+67. IRQ for floppy disk is
+- 6 (Page 114)
+
+68. IRQ with highest priority is
+- Keyboard IRQ
 - Timer IRQ (Page 114)
 - Sound Card
 - Floppy Disk
