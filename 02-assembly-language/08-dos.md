@@ -24,8 +24,45 @@ Is question mein Storage Medium (jaise Hard Disk ya Floppy) ko access karne ke d
 > **Exam Tip:**
 > * **Logical View** of storage $\rightarrow$ **DOS**
 > * **Physical View** of storage $\rightarrow$ **BIOS**
-> 
-> 
 
 
 30-July-2026
+
+Sahi Option Hai: **Raw storage**
+
+---
+
+### **Aapke 1st Question Ka Jawab: Haan! Yeh Wahi Concept Hai!**
+
+Aap ne bilkul sahi pakda! CS401 (Page 155) par yeh concept **BIOS (Physical View)** vs **DOS (Logical View)** ki wajohat se aata hai.
+
+Donoh mein farq kya hai?
+
+1. **BIOS View (Raw Storage / Physical View):**
+* BIOS ko bilkul parwah nahi hoti ke disk mein **Files** hain ya **Folders** hain.
+* BIOS disk ko sirf raw hardware dekhta hai—yani direct **Sectors, Tracks, aur Heads** ki shakhal mein (Direct physical blocks).
+
+
+2. **DOS View (Logical Storage / Logical View):**
+* DOS is **Raw Storage** ke upar apna ek system banata hai (File System).
+* DOS humein files, folders, drive letters (`C:`, `D:`) ki shakal mein data dikhata hai.
+
+
+
+---
+
+
+### **DevOps / Real-World Comparison:**
+
+| OS / Layer | Storage View Type | Kya Samajhta Hai? | Example |
+| --- | --- | --- | --- |
+| **BIOS (Hardware Level)** | **Raw Storage** (Physical) | Block numbers, Sectors, Tracks | Hard drive ka Unformatted RAW block device (`/dev/sda`) |
+| **DOS / OS (File System)** | **Logical Storage** | Files, Folders, File paths | Formatted File System (`/home/user/doc.txt` ya `C:\Windows`) |
+
+---
+
+> **Exam Tip:**
+> * **BIOS** $\rightarrow$ **Raw Storage**
+> * **DOS** $\rightarrow$ **Logical Storage / Logical View**
+> 
+>
