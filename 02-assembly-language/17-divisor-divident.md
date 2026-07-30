@@ -8,6 +8,8 @@ Sahi Option Hai: **AX**
 
 ---
 
+
+
 ### **Concept (Samajhne ke liye):**
 
 `DIV` (Division) instruction mein divisor (division karne wala number) toh instruction mein specify hota hai (jaise yahan `BL`), lekin **dividend** (jis number ko divide karna hai) CPU automatic pehle se fixed register se uthata hai. Isay **Implied Dividend** kehte hain.
@@ -91,3 +93,19 @@ $$\text{Operation: } \frac{\mathbf{DX:AX} \text{ (32-bit)}}{\mathbf{BX} \text{ (
 | **`DIV CX`** | $16$-bit | $32$-bit | **`DX:AX`** |
 
 > **Aasan Lafzon Mein:** Bas `DIV` ke aage likha register dekhein. Agar uske aakhri mein **`L`** ya **`H`** hai (`BL`, `CL`), toh dividend **`AX`** hai. Agar aakhri mein **`X`** hai (`BX`, `CX`), toh dividend **`DX:AX`** hai!
+
+---
+
+Why not BX, CX, DX?
+
+### **Simple Real-Life Analogy:**
+
+Sochein aapke kitchen mein:
+
+* **`AX` = Main Cooking Stove (Chulha)** — Saari cooking (arithmetic) yahin hogi.
+* **`BX` = Spice Rack (Masalay)**
+* **`CX` = Timer (Ghadhi)**
+
+Jab bhi `DIV` (Khana pakana) chalega, CPU hamesha **Main Stove (`AX`)** ko hi use karega. Aap Masalay wale dabba (`BX`) par sidha khana nahi pakayein ge!
+
+---
