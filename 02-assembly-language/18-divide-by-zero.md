@@ -1,3 +1,53 @@
+Koi baat nahi, tension bilkul mat lein! DevOps context thoda high-level ho sakta hai. Chalein saaf aur simple urdu mein step-by-step clear karte hain.
+
+---
+
+### **Bus 2 Batein Yaad Rakhein:**
+
+#### **1. Normal Code (Jo Hum Likhte Hain):**
+
+Jab hum CPU ko koi kaam dene ke liye instruction likhte hain, jaise:
+
+* `MOV AX, 5` (AX mein 5 daalo)
+* `INT 21h` (Screen par kuch print karo)
+
+Yeh sab **hum khud code mein likhte hain**.
+
+---
+
+#### **2. Automatic Accident / Event (Jo CPU Khud Karta Hai):**
+
+Sochein aap gari chala rahe hain. Agar engine overheat ho jaye, toh gari ka dash-board par **Red Warning Light khud hi on ho jati hai**. Aap ko manually koi button nahi dabana parta.
+
+CPU mein jab **Zero ($0$) se division** hoti hai (jaise $10 \div 0$), toh yeh maths mein possible nahi hai.
+
+* Yeh **CPU ke liye ek accident / error** hai.
+* Is error aate hi CPU **khud-ba-khud (Automatically)** ek warning signal generate kar deta hai jise **`INT 0`** kehte hain.
+* Programmer ko code mein `INT 0` likhne ki **kisi qism ki zaroorat nahi hoti**.
+
+---
+
+### **Sawal Ka Seedha Jawab:**
+
+MCQ puch raha hai ke *'Divide by 0'* hone par **kon si instruction use hoti hai?**
+
+Jawab hai: **Koi instruction use nahi hoti, yeh AUTOMATICALLY trigger hota hai!**
+
+---
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+
 Sahi sawal! Simple lafzon mein: **`INT` ka matlab Interrupt hota hai**, aur aage jo number ($0, 1, 2$) likha hai, wo **Interrupt Ka ID / Type Number** hota hai.
 
 Jaise Police ka emergency number **15** hota hai, Fire Brigade ka **16**, aur Ambulance ka **1122**—har number ka apna ek specific kaam fix hota hai.
