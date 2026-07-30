@@ -64,5 +64,18 @@ Donoh mein farq kya hai?
 > **Exam Tip:**
 > * **BIOS** $\rightarrow$ **Raw Storage**
 > * **DOS** $\rightarrow$ **Logical Storage / Logical View**
-> 
->
+
+
+55. In DOS input buffer, number of characters actually read on return is stored in
+- First byte
+- Second byte (Page 152)
+- Third byte
+- Fourth byte
+
+1st byte → Maximum
+
+2nd byte → Actual characters typed ✅
+
+Ratta / Shortcut Rule:
+
+Typed letters ka Actual Count hamesha Second Byte (doosri jagah) mein store hota hai.
