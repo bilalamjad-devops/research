@@ -15,3 +15,11 @@ Old BIOS display standards (jaise standard VGA) low-resolution screen modes supp
 > Jab bhi **VESA** ya **VBE** ka zikr aaye CS401 mein, toh hamesha yaad rakhein ke yeh **High resolution Mode** ke liye istemaal hota hai.
 
 30-July-2026
+
+
+49. VESA (Video Electronics Standards Association) organizes 16 color bits for every pixel in
+- 5:5:5 format
+- 5:6:5 format (Page 180)
+- 6:5:6 format
+- 5:6:7 format
+
