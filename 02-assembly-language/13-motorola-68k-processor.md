@@ -23,3 +23,22 @@ Motorola **68000 (68K)** processor family ek 16/32-bit CISC architecture par mab
 
 > **Exam Tip:**
 > Motorola 68K processor mein Data Registers, Address Registers, aur **Program Counter (PC)** teeno **32-bit** ke hotay hain.
+
+---
+---
+---
+
+
+23. Motorola 68K processors have ......................23bit general purpose registers.
+- 4
+- 8
+- 16 (Page 191)
+- 32
+
+Aapne jo tip likhi hai, usme ek choti si correction hai. Motorola 68K processor mein total **16 general purpose registers** hote hain:
+
+1. **8 Data Registers:** `D0` se `D7` tak (32-bit width)
+2. **8 Address Registers:** `A0` se `A7` tak (32-bit width)
+
+
+Total General Purpose Registers: **16** (8 Data + 8 Address)
