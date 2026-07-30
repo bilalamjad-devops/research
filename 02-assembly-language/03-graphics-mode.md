@@ -70,3 +70,10 @@ Jab aap graphics mode mein screen par ek **akela pixel (Chota sa Dot)** draw ya 
 
 > **Exam Shortcut:**
 > Screen par Pixel **Write** karne ke liye `AH` mein **`0Ch`** rakha jata hai!
+
+
+41. Assembly language is:
+- Low-level programming language (Page 3)
+- High-level programming language
+- Also known as machine language
+- not considered closer to the computer
