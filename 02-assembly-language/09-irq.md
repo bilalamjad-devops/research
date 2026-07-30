@@ -146,3 +146,21 @@ Computer ke andar boht saari cheezein ek sath CPU ka dhyan khainchti hain (Keybo
 ---
 
 Tension mat lo, agar koi MCQ ajeeb lage toh mujhe bol do, hum usko simple real-life example mein tod lenge!
+
+---
+
+
+
+64. IRQ referred as
+- Eight Input signals (Page 113 ) rep
+- One Input signal
+- Eight Output signals
+- One output signal
+
+65. IRQ for keyboard is
+1 (Page 114)
+
+- Timer IRQ (Page 114)
+- Sound Card
+- Floppy Disk
+
