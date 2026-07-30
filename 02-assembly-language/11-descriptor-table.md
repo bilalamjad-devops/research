@@ -32,3 +32,11 @@ CPU jab bhi kisi interrupt ko process karta hai, toh woh sab se pehle **IDTR** r
 - IDTR (Page 182) rep
 - IVT
 - IDTT
+
+
+70. The physical address of Interrupt Descriptor Table (IDT) is stored in
+- GDTR
+- IDTR (Page 182) rep
+- IVT
+- IDTT
+
