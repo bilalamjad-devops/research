@@ -119,3 +119,30 @@ Hardware Interrupts (IRQs) ke fixed channels hotay hain:
 - IRQ 5
 - IRQ 6
 - IRQ 7
+
+---
+---
+---
+
+56. IRQ 0 has priority
+- Low
+- High
+- Highest (Page 114)
+- Medium
+
+
+
+
+## 2. Sawal 56: IRQ 0 Priority (V.I.P Line)
+
+Computer ke andar boht saari cheezein ek sath CPU ka dhyan khainchti hain (Keyboard, Mouse, Disk, Timer). Isliye CPU ne ek **Priority List (VIP List)** banayi hui hai:
+
+* **IRQ 0 (System Timer):** Yeh Prime Minister ki tarah hai — iski priority sab se **Highest (Sab Se Pehle)** hoti hai. CPU baaki sab kaam chhor kar pehle Timer ki baat sunta hai.
+* **IRQ 7:** Iski priority sab se **Lowest (Sab Se Aakhir)** hoti hai.
+
+> **Ratta / Shortcut Rule:**
+> **IRQ 0** = Sab se pehla number = **Highest Priority**.
+
+---
+
+Tension mat lo, agar koi MCQ ajeeb lage toh mujhe bol do, hum usko simple real-life example mein tod lenge!
