@@ -23,3 +23,10 @@ Old BIOS display standards (jaise standard VGA) low-resolution screen modes supp
 - 6:5:6 format
 - 5:6:7 format
 
+
+52. Video services are classified into......................broad categories.
+- 5
+- 4
+- 3
+- 2 (Page 149
+
