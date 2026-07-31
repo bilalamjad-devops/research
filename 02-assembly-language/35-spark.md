@@ -16,3 +16,12 @@ Sahi Option Hai: **32bit**
 
 > **Exam Shortcut:**
 > **SPARC Instruction Size = Fixed 32-bit (4 Bytes)**.
+
+
+123. A 32 bit address register can access up to of memory.
+
+- 1 GB
+- 6 GB
+- 4 GB (Page 175) rep
+- 2 GB
+
