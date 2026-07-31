@@ -58,4 +58,9 @@ INT for arithmetic overflow is
 - like divide by 1 interrupt
 - Software interrupt
 
+116. Which of the following interrupts is used for Arithmetic overflow
+- INT 1
+- INT 2
+- INT 3
+- INT 4 (Page 106) rep
 
