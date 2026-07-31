@@ -50,6 +50,31 @@ DB-9 connector (RS-232 Serial Port) par Total **9 Pins** hoti hain. Exam mein ak
 
 ---
 
+
+Here is the breakdown table for the **25-Pin Parallel Port (DB-25)** connector:
+
+---
+
+### **DB-25 Parallel Port Pinout Table**
+
+| Pin Range | Signal Group | Pin Type | Description |
+| --- | --- | --- | --- |
+| **Pin 1** | Strobe | Output | Notifies device that data is ready |
+| **Pins 2 – 9** | Data Lines (D0 – D7) | Input / Output | 8-bit Data transfer bus |
+| **Pins 10 – 13, 15** | Status Lines | Input | Printer/Device status (Ack, Busy, Paper Out, Error) |
+| **Pins 14, 16, 17** | Control Lines | Output | Device control (Auto Feed, Init, Select) |
+| **Pins 18 – 25** | **Ground (GND)** | **Ground** | **8 Pins connected to Ground** |
+
+---
+
+### **Exam Key Takeaways:**
+
+* **Total Pins:** $25$
+* **Data Bus:** $8\text{ bits}$ (Pins 2 to 9)
+* **Ground Pins:** $8\text{ pins}$ (Pins 18 to 25)
+
+
+
 > **Exam Shortcut Tip:**
 > * Sab se **pehli pin (Pin 1)** $\rightarrow$ **CD** (Carrier Detect)
 > * Bilkul **center wali pin (Pin 5)** $\rightarrow$ **GND** (Ground)
