@@ -40,3 +40,18 @@ CPU jab bhi kisi interrupt ko process karta hai, toh woh sab se pehle **IDTR** r
 - IVT
 - IDTT
 
+
+98.8088 is a...........................
+- 16 bit processor (Page 14)
+- 32 bit processor
+- 64 bit processor
+- 128 bit processor
+
+99. The table index (TI) is set to to access the GDT (Global Descriptor Table).
+- 1
+- 0 (Page 175)
+- -1
+- -2
+
+
+
