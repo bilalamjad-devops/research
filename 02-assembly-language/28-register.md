@@ -35,5 +35,18 @@ Sahi Option Hai: **Count register**
 ---
 
 > **1-Line Bottom Line:** Register CPU ka apna super-fast temporary memory box hai jahan wo kaam karte waqt rough calculation karta hai.
->
-> 
+
+---
+
+124. The value of a segment register when the processor is running under protected mode is called
+
+- segment descriptor
+- segment selector
+- global descriptor table
+- protected register
+
+
+Exam Shortcut:
+
+Segment Register ki value Protected Mode mein = Segment Selector
+
