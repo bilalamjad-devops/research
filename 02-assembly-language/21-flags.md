@@ -40,3 +40,17 @@ Sahi Option Hai: **Direction, Interrupt and Trap flag.**
 
 > **Exam Shortcut Tip:**
 > Jab bhi pucha jaye ke **Maths ke liye kon se flags use NAHI hotay**, toh **`DIT`** (Direction, Interrupt, Trap) ko dhoondein!
+
+---
+
+102. When a 32 bit number is divided by a 16 bit number, the quotient is of
+- 32 bits
+- 16 bits (Page 85)
+- 8 bits
+- 4 bits
+
+
+Crisp Bottom Line:
+
+Maths mein answer 2 ata hai. Lekin CPU mein wo answer jis dabba/register (AX) mein save hota hai, us dabba ki capacity 16 bits hoti hai!
+
