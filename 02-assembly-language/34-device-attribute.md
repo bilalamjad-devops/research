@@ -19,3 +19,5 @@ Sahi Option Hai: **Bit 15**
 
 > **Exam Shortcut:**
 > Device Attribute Word ki **sab se pehli / top bit (Bit 15)** hi faisla karti hai ke device **Character** hai ya **Block**!
+
+31-July-2026
