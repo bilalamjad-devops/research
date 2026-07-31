@@ -126,3 +126,15 @@ Here is the breakdown table for the **25-Pin Parallel Port (DB-25)** connector:
 - 6 (Page 171)
 - 7
 
+
+118. The number of pins in a parallel port connector are?
+- 20
+- 25 (Page 125)
+- 30
+- 35
+119. Which of the following pins of a parallel port connector are grounded?
+- 10-18
+- 18-25 (Page 125) rep
+- 25-32
+- 32-39
+
