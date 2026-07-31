@@ -173,3 +173,11 @@ Tension mat lo, agar koi MCQ ajeeb lage toh mujhe bol do, hum usko simple real-l
 - Sound Card
 - Floppy Disk
 
+
+115.Which of the following IRQ is cascading interrupt
+- IRQ 0
+- IRQ 1
+- IRQ 2 (Page 114)
+- IRQ 3
+
+
