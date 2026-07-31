@@ -20,3 +20,12 @@ Jab computer aik process se doosre process par switch karta hai (jisay **Context
 > Jab aap game khel rahe hon aur game ko **Pause** kar dein, toh game aapka score, location, aur health save kar leta hai. Phir jab aap **Resume** karte hain, toh game waise hi wahan se start hoti hai. PCB computer ke liye bilkul isi **Pause/Save State** ka kaam karta hai!
 
 30-July-2026
+
+
+132. PCB stands for?
+
+- Select correct option:
+- Process Control Block (Page 140)
+- Process Clearing Block
+- Programmable Counter Block
+
