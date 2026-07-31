@@ -93,3 +93,11 @@ DB-9 connector (RS-232 Serial Port) par Total **9 Pins** hoti hain. Exam mein ak
 - 18-25 (Page 125 ) rep
 - 25-32
 - 32-39
+
+
+109. In 9pin DB 9 DSR is assigned on pin number
+- 4
+- 5
+- 6 (Page 171)
+- 7
+
