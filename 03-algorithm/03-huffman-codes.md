@@ -1,4 +1,10 @@
 
+Tree
+
+Left side: 0 
+
+Right side: 1
+
 ### **Huffman Coding Kya Hai? (Easy Roman Urdu Mein)**
 
 **Huffman Coding** ek **Data Compression Algorithm** hai jo files (text, images) ka size chota (compress) karne ke liye use hota hai.
