@@ -9,29 +9,12 @@ Fraction Knapsack Problem:
 
 
 
-### **Knapsack ki 2 Main Types (Types of Knapsack)**
+### **Exam Cheat Sheet (Quick Recap)**
 
-Exam ke hawale se yeh 2 types bohot zaroori hain:
-
-| Type | Matlab | Kaunsa Algorithm Use Hota Hai? |
+| Feature | 0/1 Knapsack | Fractional Knapsack |
 | --- | --- | --- |
-| **1. 0/1 Knapsack Problem** | Aap ya toh puri cheez bag mein **rakhenge (1)** ya **nahi rakhenge (0)**. Cheez ko tor kar (fraction/hissa) nahi daal sakte.
-
- | **Dynamic Programming**<br> |
-| **2. Fractional Knapsack Problem** | Aap cheezon ko tor kar unka **chota hissa (fraction)** bhi bag mein daal sakte hain. (Jaise chawal, shakar, sona wagera)
-
- | **Greedy Approach**<br> |
-
----
-
-### **Exam Key Takeaways (Ratta Points):**
-
-1. **Category:** Knapsack problem **Optimization** domain se belong karti hai.
-
-
-2. **0/1 Knapsack:** Fractional items **not allowed** $\rightarrow$ Dynamic Programming se solve hota hai.
-
-
-3. **Fractional Knapsack:** Fractional items **allowed** $\rightarrow$ Greedy Algorithm se solve hota hai.
+| **Items Breakable?** | No (Poora uthao ya chhor do)| Yes (Hissa le sakte ho)|
+| **Best Strategy** | **Dynamic Programming**<br> | **Greedy Approach**<br> |
+| **Complexity** | $O(n \times W)$ | $O(n \log n)$ (sorting ki waja se) |
 
 3-Aug-2026
