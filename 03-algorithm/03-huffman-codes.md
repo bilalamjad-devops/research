@@ -5,6 +5,12 @@ Left side: 0
 
 Right side: 1
 
+---
+
+The main time taking step in fractional knapsack problem is Sorting. 
+
+---
+
 ### **Huffman Coding Kya Hai? (Easy Roman Urdu Mein)**
 
 **Huffman Coding** ek **Data Compression Algorithm** hai jo files (text, images) ka size chota (compress) karne ke liye use hota hai.
