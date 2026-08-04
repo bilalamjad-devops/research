@@ -7,3 +7,7 @@
 | **Floyd-Warshall** | **All-Pairs** Shortest Path (Har point se har doosre point tak) |
 
 > **Ratta Tip:** Exam mein **"All-pairs"** ka word aaye toh foran **Floyd-Warshall** select karein!
+
+---
+
+ Floyd-Warshall = Sab se Slowest Shortest Path Algorithm
