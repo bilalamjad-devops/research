@@ -10,4 +10,7 @@
 
 ---
 
- Floyd-Warshall = Sab se Slowest Shortest Path Algorithm
+- Floyd-Warshall = Sab se Slowest Shortest Path Algorithm
+
+- Dynamic Programming
+
