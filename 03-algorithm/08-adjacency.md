@@ -5,3 +5,5 @@ Ratta Tip:
 
 - Node + Matrix = Adjacency Matrix 
 
+
+adjacency matrix used? to represent the edges b/w nodes 
