@@ -10,4 +10,11 @@ when arp searches ip address in hardware address, it is tough, therefore we use 
 
 Direct indexing and Hashing
 
+---
+
+command
+
+```arp
+arp -a
+```
 
