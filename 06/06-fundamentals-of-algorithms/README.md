@@ -55,7 +55,6 @@ Example:
 
 		a, abab, aaabb, ababababababababab
 
-<img width="2012" height="493" alt="image" src="https://github.com/user-attachments/assets/2bd4060c-3aec-454b-89c6-d52be2531638" />
 
 
 <img width="1383" height="1069" alt="image" src="https://github.com/user-attachments/assets/9326f51e-8221-4175-b214-73077baa91a0" />
