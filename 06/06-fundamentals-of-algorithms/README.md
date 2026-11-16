@@ -39,6 +39,37 @@ Example:
 
 <img width="2857" height="508" alt="image" src="https://github.com/user-attachments/assets/0c2b6da3-ac24-45df-a347-4f76270e7a8b" />
 
+
+---
+---
+---
+
+
+Definition:
+
+	Concatenation of finite symbols from the alphabet is called a string. 
+
+Example:
+
+	If Σ= {a,b} then
+
+		a, abab, aaabb, ababababababababab
+
+<img width="2012" height="493" alt="image" src="https://github.com/user-attachments/assets/2bd4060c-3aec-454b-89c6-d52be2531638" />
+
+
+<img width="1383" height="1069" alt="image" src="https://github.com/user-attachments/assets/9326f51e-8221-4175-b214-73077baa91a0" />
+
+
+
+---
+---
+---
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a23dfe54-a682-4cc7-8bd7-1c56d2d4618b" />
+
+
+
 6-November-2026
 
 16-November-2026
