@@ -9,6 +9,10 @@ String = sequence of alphabet Sigma(a,b)
 
 Language = collection of string 
 
+- fixed numbers of strings = finite
+- infinite numbers of strings = infinite 
+
+
 
 6-November-2026
 
