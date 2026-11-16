@@ -45,7 +45,7 @@ Example:
 ---
 ---
 
-# String (concatenation of symbols(
+# String (concatenation of symbols)
 
 <img width="1383" height="1069" alt="image" src="https://github.com/user-attachments/assets/9326f51e-8221-4175-b214-73077baa91a0" />
 
@@ -70,7 +70,9 @@ Example:
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a23dfe54-a682-4cc7-8bd7-1c56d2d4618b" />
 
-
+- vu ppts
+- gate smashers
+- programmology
 
 6-November-2026
 
