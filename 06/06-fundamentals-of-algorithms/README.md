@@ -12,6 +12,7 @@ Language = collection of string
 - fixed numbers of strings = finite
 - infinite numbers of strings = infinite 
 
+Automata? weather a string is a part of Language or not? 
 
 
 6-November-2026
