@@ -1,4 +1,17 @@
 
+
+
+
+
+
+```automata
+- Letter = Symbol
+- Alphabet = Set of symbol eg: {a,b}
+- String = concetenation of symbol eg: aa, bb
+
+```
+
+
 Theory of Automata:
 
 **Letter** = Symbol a,b,c etc 
