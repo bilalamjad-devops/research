@@ -23,7 +23,7 @@ Use: does this string {abba} belong to this Language?
 ---
 ---
 
-
+## Alphabet
 
 Definition:
 	
@@ -37,13 +37,14 @@ Example:
 	
 	 Σ={i,j,k}
 
-<img width="2857" height="508" alt="image" src="https://github.com/user-attachments/assets/0c2b6da3-ac24-45df-a347-4f76270e7a8b" />
+<img width="1361" height="1069" alt="image" src="https://github.com/user-attachments/assets/3137ff8b-cde5-4792-b124-895a1ef4b93f" />
 
 
 ---
 ---
 ---
 
+## String
 
 Definition:
 
