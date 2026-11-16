@@ -3,9 +3,9 @@ Theory of Automata:
 
 Letter = Symbol a,b,c etc 
 
-Alphabet = Sigma = finate set of symbol (a,b) 
+Alphabet = Σ (Sigma) = set of symbol e.g., (a,b) 
 
-String = sequence of alphabet Sigma(a,b) 
+String = sequence of alphabet e.g., Σ(a,b)
 
 Language = collection of string 
 
