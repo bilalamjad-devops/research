@@ -25,6 +25,8 @@ Use: does this string {abba} belong to this Language?
 
 ## Alphabet
 
+<img width="1361" height="1069" alt="image" src="https://github.com/user-attachments/assets/3137ff8b-cde5-4792-b124-895a1ef4b93f" />
+
 Definition:
 	
 	 A finite non-empty set of symbols (letters), is called an alphabet. It is denoted by Σ ( Greek letter sigma).
@@ -37,7 +39,6 @@ Example:
 	
 	 Σ={i,j,k}
 
-<img width="1361" height="1069" alt="image" src="https://github.com/user-attachments/assets/3137ff8b-cde5-4792-b124-895a1ef4b93f" />
 
 
 ---
@@ -45,6 +46,8 @@ Example:
 ---
 
 ## String
+
+<img width="1383" height="1069" alt="image" src="https://github.com/user-attachments/assets/9326f51e-8221-4175-b214-73077baa91a0" />
 
 Definition:
 
@@ -58,7 +61,6 @@ Example:
 
 
 
-<img width="1383" height="1069" alt="image" src="https://github.com/user-attachments/assets/9326f51e-8221-4175-b214-73077baa91a0" />
 
 
 
