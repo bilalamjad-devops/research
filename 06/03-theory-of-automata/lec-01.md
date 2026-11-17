@@ -57,4 +57,26 @@ The capital lambda will mostly be used to denote the empty string, in further di
 
 ---
 
+**Words**
+
+Definition
+
+Words are strings belonging to some language.
+
+Example
+
+If Σ= {x} then a language L can be defined as
+
+L={xn : n=1,2,3,…..} or L={x,xx,xxx,….}
+
+Here x,xx,… are the words of L
+
+Note
+
+All words are strings, but not all strings are words. 
+
+---
+
+
+
 17-Nov-2026
