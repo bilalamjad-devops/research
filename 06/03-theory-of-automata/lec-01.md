@@ -7,8 +7,9 @@ It is the plural of automaton, and it means “something that works automaticall
 Introduction to languages
 
 There are two types of languages
-• Formal Languages (Syntactic languages)
-• Informal Languages (Semantic languages)
+
+- Formal Languages (Syntactic languages)
+- Informal Languages (Semantic languages)
 
 ---
 
