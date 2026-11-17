@@ -34,5 +34,27 @@ IF
 
 ---
 
+**Strings**
+
+Definition
+ 
+Concatenation of finite number of letters from the alphabet is called a string.
+
+Example
+
+ If Σ = {a,b} then
+
+ a, abab, aaabb, ababababababababab
+
+Note
+
+Empty string or null string
+
+Sometimes a string with no symbol at all is used, denoted by (Small Greek letter Lambda) λ or (Capital Greek
+letter Lambda) Λ, is called an empty string or null string.
+
+The capital lambda will mostly be used to denote the empty string, in further discussion. 
+
+---
 
 17-Nov-2026
