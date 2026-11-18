@@ -1,10 +1,6 @@
 **Kleene Star Closure**
 
-Given Σ, then the Kleene Star Closure of the alphabet Σ, denoted by Σ*
-
-, is the collection of all strings defined
-
-over Σ, including Λ.
+Given Σ, then the Kleene Star Closure of the alphabet Σ, denoted by Σ* , is the collection of all strings defined over Σ, including Λ.
 
 It is to be noted that Kleene Star Closure can be defined over any set of strings.
 
