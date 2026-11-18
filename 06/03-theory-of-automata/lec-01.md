@@ -89,6 +89,35 @@ letter of the same alphabet i.e. one letter should not be the prefix of another.
 
 Σ1 is a valid alphabet while Σ2 is an in-valid alphabet. 
 
+---
+
+**Length of Strings**
+
+Definition
+
+The length of string s, denoted by |s|, is the number of letters in the string.
+
+Example
+
+Σ={a,b}
+
+s=ababa
+
+|s|=5
+
+Example
+
+Σ= {B, aB, bab, d}
+
+s=BaBbabBd
+
+**Tokenizing**=(B), (aB), (bab), (B), (d)
+
+|s|=5 
+
+---
+
+
 
 17-Nov-2026
 
