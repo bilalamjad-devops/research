@@ -77,6 +77,17 @@ All words are strings, but not all strings are words.
 
 ---
 
+**Valid/In-valid alphabets**
+
+No letter should be started with the
+
+letter of the same alphabet i.e. one letter should not be the prefix of another.
+
+Σ1= {B, aB, bab, d}
+
+Σ2= {B, Ba, bab, d}
+
+Σ1 is a valid alphabet while Σ2 is an in-valid alphabet. 
 
 
 17-Nov-2026
