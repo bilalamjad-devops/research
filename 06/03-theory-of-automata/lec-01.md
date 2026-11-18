@@ -278,6 +278,19 @@ The language **PRIME**, of strings defined over Σ={a}, as
 ---
 
 
+An Important language
+
+**PALINDROME**
+
+The language consisting of Λ and the strings s defined over Σ such that Rev(s)=s.
+
+It is to be denoted that the words of PALINDROME are called palindromes.
+
+Example
+
+For Σ={a,b},
+
+PALINDROME={Λ , a, b, aa, bb, aaa, aba, bab, bbb, ...} 
 
 
 
