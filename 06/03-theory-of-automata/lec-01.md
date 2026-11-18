@@ -117,6 +117,29 @@ s=BaBbabBd
 
 ---
 
+**Reverse of a String**
+
+Definition
+
+The reverse of a string s denoted by Rev(s) or sr, is obtained by writing the letters of s in reverse order.
+
+Example
+
+If s=abc is a string defined over Σ={a,b,c}
+
+then Rev(s) or sr = cba
+
+Example
+
+Σ= {B, aB, bab, d}
+
+s=BaBbabBd
+
+Rev(s)=dBbabaBB 
+
+---
+
+
 
 
 17-Nov-2026
