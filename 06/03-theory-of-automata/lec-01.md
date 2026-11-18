@@ -176,7 +176,7 @@ L={0,00,10,000,010,100,110,…}
 
 Example
 
-The language EQUAL, of strings with number of a’s equal to number of b’s, defined over Σ={a,b}, can be
+The language **EQUAL**, of strings with number of a’s equal to number of b’s, defined over Σ={a,b}, can be
 
 written as
 
@@ -184,7 +184,7 @@ written as
 
 Example
 
-The language EVEN-EVEN, of strings with even number of a’s and even number of b’s, defined over Σ={a,b},
+The language **EVEN-EVEN**, of strings with even number of a’s and even number of b’s, defined over Σ={a,b},
 
 can be written as
 
@@ -192,27 +192,21 @@ can be written as
 
 Example
 
-The language INTEGER, of strings defined over Σ={-,0,1,2,3,4,5,6,7,8,9}, can be written as
+The language **INTEGER**, of strings defined over Σ={-,0,1,2,3,4,5,6,7,8,9}, can be written as
 
 INTEGER = {…,-2,-1,0,1,2,…}
 
 Example
 
-The language EVEN, of stings defined over Σ={-,0,1,2,3,4,5,6,7,8,9}, can be written as
+The language **EVEN**, of stings defined over Σ={-,0,1,2,3,4,5,6,7,8,9}, can be written as
 
 EVEN = { …,-4,-2,0,2,4,…}
 
 Example
 
-The language {an
+The language {a^nb^n }, of strings defined over Σ={a,b}, as
 
-b
-
-n }, of strings defined over Σ={a,b}, as
-
-{an b
-
-n : n=1,2,3,…}, can be written as
+{a^nb^n : n=1,2,3,…}, can be written as
 
 {ab, aabb, aaabbb,aaaabbbb,…}
 
@@ -220,21 +214,9 @@ Example
 
 The language {an
 
-b
+b^na^n }, of strings defined over Σ={a,b}, as
 
-n
-
-a
-
-n }, of strings defined over Σ={a,b}, as
-
-{an b
-
-n
-
-a
-
-n
+{a^nb^na^n
 
 : n=1,2,3,…}, can be written as
 
@@ -242,14 +224,14 @@ n
 
 Example
 
-The language factorial, of strings defined over Σ={0,1,2,3,4,5,6,7,8,9} i.e.
+The language ^^factorial^^, of strings defined over Σ={0,1,2,3,4,5,6,7,8,9} i.e.
 
 {1,2,6,24,120,…} 
 
 
 Example
 
-The language FACTORIAL, of strings defined over Σ={a}, as
+The language **FACTORIAL**, of strings defined over Σ={a}, as
 
 
 {an! : n=1,2,3,…}, can be written as
@@ -258,7 +240,7 @@ The language FACTORIAL, of strings defined over Σ={a}, as
 
 Example
 
-The language DOUBLEFACTORIAL, of strings defined over Σ={a, b}, as
+The language **DOUBLEFACTORIAL**, of strings defined over Σ={a, b}, as
 
 {an!b
 
@@ -268,7 +250,7 @@ n! : n=1,2,3,…}, can be written as
 
 Example
 
-The language SQUARE, of strings defined over Σ={a}, as
+The language **SQUARE**, of strings defined over Σ={a}, as
 
 {an2 : n=1,2,3,…}, can be written as
 
@@ -276,7 +258,7 @@ The language SQUARE, of strings defined over Σ={a}, as
 
 Example
 
-The language DOUBLESQUARE, of strings defined over Σ={a,b}, as
+The language **DOUBLESQUARE**, of strings defined over Σ={a,b}, as
 
 {an 2 b
 
