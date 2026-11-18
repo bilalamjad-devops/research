@@ -268,7 +268,7 @@ n 2 : n=1,2,3,…}, can be written as
 
 Example
 
-The language PRIME, of strings defined over Σ={a}, as
+The language **PRIME**, of strings defined over Σ={a}, as
 
 {ap : p is prime}, can be written as
 
