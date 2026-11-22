@@ -17,7 +17,7 @@ There are two types of languages
 
 Definition
 
-A finite non-empty set of symbols (called letters), is called an alphabet. It is denoted by Σ ( Greek letter sigma).
+A finite non-empty `set of symbols` (called letters), is called an alphabet. It is denoted by Σ ( Greek letter sigma).
 
 Example
  
@@ -38,7 +38,7 @@ IF
 
 Definition
  
-Concatenation of finite number of letters from the alphabet is called a string.
+`Concatenation of finite number of letters from the alphabet` is called a string.
 
 Example
 
