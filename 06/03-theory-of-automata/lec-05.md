@@ -16,6 +16,8 @@ final state with double circle
 
 <img width="944" height="714" alt="image" src="https://github.com/user-attachments/assets/7a7b0eb2-4c8d-4b10-bc59-5150d7b30aa1" />
 
+You can give example: abbba, abba etc
+
 ---
 ---
 ---
