@@ -53,5 +53,11 @@ The Λ does not belong to L1 while it does belong to L2.
 
 <img width="982" height="521" alt="image" src="https://github.com/user-attachments/assets/37004479-8c17-4338-b483-c83bc0bbe4c3" />
 
+---
+---
+---
+
+
+<img width="878" height="299" alt="image" src="https://github.com/user-attachments/assets/c02f120f-6db0-4e73-800f-f98246183c2d" />
 
 23-Nov-2026
