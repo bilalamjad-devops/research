@@ -42,6 +42,22 @@ Step 3: Nothing else is a regular expression.
 ---
 ---
 
+**Method 3 (Regular Expressions)**
+
+Now consider another language L, consisting of all possible strings, defined over Σ = {a, b}. This language can
+also be expressed by the regular expression (a + b)*. 
+
+Now consider another language L, of strings having exactly one a, defined over Σ = {a, b}, then it’s regular
+expression may be `b*ab*`.
+
+Now consider another language L, of even length, defined over Σ = {a, b}, then it’s regular expression may be
+((a+b)(a+b))*
+
+Now consider another language L, of odd length, defined over Σ = {a, b}, then it’s regular expression may be
+`(a+b)((a+b)(a+b))* or ((a+b)(a+b))*(a+b). `
+
+
+
 
 
 22-Nov-2026
