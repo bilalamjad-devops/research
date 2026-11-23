@@ -25,4 +25,43 @@ r1 can create this: aaaaa, bbbbb
 
 we can create abbba using r2 but not using r1. 
 
+---
+---
+---
+
+
+**Equivalent Regular Expressions**
+
+Definition
+
+Two regular expressions are said to be equivalent if they generate the same language.
+
+Example
+
+Consider the following regular expressions
+
+r1 = (a + b)* (aa + bb)
+
+r2 = (a + b)*aa + ( a + b)*bb then both regular expressions define the language of strings ending in aa or bb.
+
+Note
+
+If r1 = (aa + bb) and r2 = ( a + b) then
+
+r1+r2 = (aa + bb) + (a + b)
+
+r1r2 = (aa + bb) (a + b)
+
+= (aaa + aab + bba + bbb)
+
+(r1)* = (aa + bb)* 
+
+---
+---
+---
+
+
+
+
+
 23-Nov-2026
