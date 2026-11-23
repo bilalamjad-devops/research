@@ -35,6 +35,23 @@ You can give example: abbba, abba etc
 ---
 ---
 
+**Note**
+
+
+Language can have many FAs. but many FAs cannot have many language
+
+It is also to be noted that given the languages L1 and L2 ,where
+
+L1 = The language of strings, defined over Σ ={a, b}, beginning with a.
+
+L2 = The language of strings, defined over Σ ={a, b}, not beginning with b
+
+The Λ does not belong to L1 while it does belong to L2. 
+
+
+
+
+<img width="982" height="521" alt="image" src="https://github.com/user-attachments/assets/37004479-8c17-4338-b483-c83bc0bbe4c3" />
 
 
 23-Nov-2026
