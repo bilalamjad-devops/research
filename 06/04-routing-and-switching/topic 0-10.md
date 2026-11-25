@@ -342,5 +342,67 @@ Agar aap ko in protocols (HTTP, DNS, DHCP, TCP vs UDP, ARP) mein se kisi ek ka m
 
 Aap ka concept ab bilkul crystal clear ho gaya hai! Agla topic ho to zaroor share karein.
 
+---
+---
+---
+
+## Topic 007 
+
+Is video (**CS407_Topic007** — Virtual University of Pakistan) ka asaan **Roman English** mein khulasa niche diya gaya hai:
+
+### **Video ka Topic: Open Standards aur Standard Organizations** [[00:01](https://www.youtube.com/watch?v=SecbVqVAXF8&t=1)]
+
+**Open Standards** ka matlab hai aise qanoon (rules) jo sab ke liye khulay hon—taake koi aik company poore internet par kabza (**monopoly**) na jama sake, aur mukhtalif companies ke devices (jaise Apple, Samsung, Dell) aapas mein aasani se baat kar sakein [[00:01](https://www.youtube.com/watch?v=SecbVqVAXF8&t=1)].
+
+---
+
+### **5 Barhi Standard Organizations (Jo Internet ke Rules Banati Hain)** [[00:35](https://www.youtube.com/watch?v=SecbVqVAXF8&t=35)]
+
+1. **ISOC (Internet Society):**
+* Yeh sab se top level par hoti hai aur internet ki tarakki aur open standards ko promote karti hai [[01:11](https://www.youtube.com/watch?v=SecbVqVAXF8&t=71)].
+
+
+2. **IAB (Internet Architecture Board):**
+* Yeh ISOC ke neeche kaam karti hai (is ke 13 board members hotay hain) aur internet ke overall technical architecture aur standards ki nigrani karti hai [[01:25](https://www.youtube.com/watch?v=SecbVqVAXF8&t=85)].
+
+
+3. **IETF (Internet Engineering Task Force) & IRTF:**
+* **IETF:** Yeh engineers ka woh group hai jo asal mein **TCP/IP** aur internet ke protocols banata hai [[01:54](https://www.youtube.com/watch?v=SecbVqVAXF8&t=114)]. In ke likhe hue official documents ko **RFC (Request for Comments)** kehte hain (jin mein likha hota hai ke koi protocol kaise kaam karega) [[02:09](https://www.youtube.com/watch?v=SecbVqVAXF8&t=129)].
+* **IRTF (Internet Research Task Force):** Yeh aane wale 10–20 saalon ke future internet par research karti hai [[02:46](https://www.youtube.com/watch?v=SecbVqVAXF8&t=166)].
+
+
+4. **IEEE (Institute of Electrical and Electronics Engineers):**
+* Yeh dunya ke engineers ki sab se bari organization hai jo hardware aur local networks ke standards banati hai [[03:31](https://www.youtube.com/watch?v=SecbVqVAXF8&t=211)]. Is ke 2 mashhoor numbers MCQs mein aksar aatay hain:
+* **IEEE 802.3:** **Ethernet (LAN cable)** ka standard [[03:54](https://www.youtube.com/watch?v=SecbVqVAXF8&t=234)].
+* **IEEE 802.11:** **Wi-Fi (Wireless LAN)** ka standard [[04:08](https://www.youtube.com/watch?v=SecbVqVAXF8&t=248)].
+
+
+
+
+5. **ISO (International Organization for Standardization):**
+* Yeh dunya bhar ke har tarah ke products aur services ke international standards banati hai [[04:31](https://www.youtube.com/watch?v=SecbVqVAXF8&t=271)].
+* Networking mein is ka sab se mashhoor kaam **OSI Reference Model** hai jo is ne **1984** mein pesh kiya tha [[04:47](https://www.youtube.com/watch?v=SecbVqVAXF8&t=287)].
+
+
+
+---
+
+### **MCQs ke Liye Yaad Rakhne Wali Baatein:**
+
+* **RFC** kaun banata hai? $\rightarrow$ **IETF** [[02:09](https://www.youtube.com/watch?v=SecbVqVAXF8&t=129)]
+* **IEEE 802.3** kya hai? $\rightarrow$ **Ethernet** [[03:54](https://www.youtube.com/watch?v=SecbVqVAXF8&t=234)]
+* **IEEE 802.11** kya hai? $\rightarrow$ **Wi-Fi** [[04:08](https://www.youtube.com/watch?v=SecbVqVAXF8&t=248)]
+* **OSI Model** kis ne aur kab banaya? $\rightarrow$ **ISO ne 1984 mein** [[04:54](https://www.youtube.com/watch?v=SecbVqVAXF8&t=294)]
+
+**Video Link:** [http://www.youtube.com/watch?v=SecbVqVAXF8](http://www.youtube.com/watch?v=SecbVqVAXF8)
+
+Agar kisi organization ka kaam mazeed aasan misal se samajhna ho to bata dein!
+
+
+---
+---
+---
+
+
 25-Nov-2026
 
