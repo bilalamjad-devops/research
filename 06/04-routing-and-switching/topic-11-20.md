@@ -120,5 +120,17 @@ Jab aap router ki haalat check karna chahein to `show` likh kar poochte hain:
 
 Ab kaisa laga? Agar kisi aik hisse ko aur zyada simple karna ho to us ka naam bata dein!
 
+---
+---
+---
+
+## Topic 013 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bfd34945-866b-408b-a143-4c42836972fb" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d9e8d7d1-ad76-49ef-8910-b1368bf43be2" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/99cf084c-4698-46ea-ae05-e154f44dc54b" />
+
 
 25-Nov-2026
