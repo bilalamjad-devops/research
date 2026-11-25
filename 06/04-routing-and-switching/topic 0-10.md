@@ -527,5 +527,64 @@ Agar aap sirf beech wali 3 main layers (Transport, Network, Data Link) yaad rakh
 * **P** = **P**acket (Network Layer)
 * **F** = **F**rame (Data Link Layer)
 
+
+---
+---
+---
+
+
+## Topic 009 
+
+Yeh video **Cisco Internetwork Operating System (IOS)** ka taaruf karwati hai aur batati hai ke yeh routers aur switches jaise networking devices ko kaise manage karti hai (0:00 - 1:03).
+
+---
+
+### **Operating System ki Bunyadi Architecture (1:07 - 3:05)**
+
+Security aur privilege control barqarar rakhne ke liye operating system ko 3 functional layers mein taqseem kiya jata hai:
+
+* **Shell:** Yeh **User Interface** faraham karti hai, jis ke zariye aap **Command Line Interpreter (CLI)** ya **Graphical User Interface (GUI)** ke through interact kar sakte hain.
+* **Kernel:** Yeh aik darmiyani kardi (intermediary) ke tor par kaam karti hai jo hardware resources ko manage karti hai aur hardware aur software ke darmiyan raabta banati hai.
+* **Hardware:** Yeh device ki physical bunyad (chips, ports, memory) hai.
+
+---
+
+### **Memory aur Storage (3:06 - 4:14)**
+
+* **Flash Memory:** Yeh aik non-volatile storage area hai jahan **Cisco IOS** mehfooz (store) hoti hai; bijli chale jane par bhi is ka data khatam nahi hota aur is se OS upgrade ya multiple OS install kiye ja sakte hain.
+* **RAM:** Jab device boot (on) hoti hai, to OS Flash se load ho kar **RAM** mein aati hai taake chal sake.
+
+---
+
+### **IOS ke Kaam / Functions (4:15 - 5:56)**
+
+**Cisco IOS** zaroori networking services deti hai, jin mein yeh shamil hain:
+
+* **Security:** Hifazati features (protective features) laagu karna.
+* **Routing:** Raste ka hisab (path calculation) aur routing databases manage karna.
+* **QoS (Quality of Service):** Network traffic ki priorities manage karna.
+* **Addressing:** Interfaces ko IP addresses assign karna.
+* **Resource Management:** Device ke interfaces aur hardware resources ki configuration karna.
+
+**Jee haan, bilkul sahi samjhe!**
+
+1. **Cisco ka Apna OS:**
+* **Cisco** ka apna operating system hai, jisay **Cisco IOS** (Internetwork Operating System) kehte hain (aur barhe data centers/switches ke liye **NX-OS** ya **IOS XE** bhi hotay hain).
+* Jis tarah laptop mein Windows ya Linux chalta hai, usi tarah Cisco ke routers aur switches ke andar **Cisco IOS** chalti hai.
+
+
+2. **Kya Har Device (Wi-Fi Modem waghera) Ka Apna OS Hota Hai?**
+* **Aksar smart aur network devices ka apna OS ya Firmware hota hai**, lekin har device ka naam "IOS" nahi hota.
+* **Ghar ke Wi-Fi Modem / Router:** In ke andar apna chota **Firmware / Embedded OS** hota hai (aksar Linux par based hota hai), jis ke zariye aap `192.168.1.1` ya `192.168.0.1` khol kar Wi-Fi ka password ya settings badalte hain.
+* **Doosri Companies:** Jaise **MikroTik** ka **RouterOS**, **Juniper** ka **Junos**, **Huawei** ka **VRP**, aur **Smart TVs / Phones** ke apne OS hotay hain.
+* **Bilkul Simple Devices:** Kuch bohat hi basic hardware (jaise aam simple switch ya purani dum-daar sensors) mein heavy OS nahi hota, sirf bohot chota **firmware** ya basic circuit logic hota hai.
+
+
+
+### **1-Line Mein Yaad Rakhein:**
+
+* **Cisco** ka OS = **Cisco IOS**
+* **Ghar ke Wi-Fi Modem / Router** mein bhi apna **Embedded OS / Firmware** hota hai jo Wi-Fi aur internet ko chalata hai.
+
 25-Nov-2026
 
