@@ -424,6 +424,71 @@ Aap ke concepts bohat achi tarah clear ho rahe hain! Agla topic ho to bhej dein.
 ---
 ---
 
+## Topic 008 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c83940ab-0190-43dd-ae3f-13030ffcd7da" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4eb27c92-99fa-4ccf-a0d3-2495ad03a57d" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e9056a93-b989-40e0-b10b-d4fcd5c89c4b" />
+
+Koi baat nahi! Chalein isay bilkul **ek aam ghar se parcel bhejne ki misal** se samajhte hain, taake koi mushkil naam aap ko tang na kare.
+
+Sochhein aap ne Lahore se Karachi ek **tohfa (gift)** bhejna hai. Is kaam ke liye **7 log (7 Layers)** aik line mein khare hain:
+
+---
+
+### **1. OSI Model ki 7 Layers (7 Logon ki Team)**
+
+Upar se neeche (7 se 1 tak) dekhein ke har banda kya kaam karta hai:
+
+* **7. Application Layer (Aap Khud):** Aap ne mobile par WhatsApp ya Chrome khola aur likha *"Salam"* — yeh aap ka asal message (**Data**) hai.
+* **6. Presentation Layer (Translator / Packer):** Yeh aap ke *"Salam"* ko aise code (ya encryption/lock) mein badalta hai taake raaste mein koi parh na sake, aur doosri taraf ja kar wapas parhne layak banata hai.
+* **5. Session Layer (Phone Call Operator):** Yeh pehle check karta hai ke samne wale ka phone/computer on hai ya nahi, baat shuru karwata hai, aur khatam hone par call kat-ta hai.
+* **4. Transport Layer (Tukre Karne Wala):** Agar aap ne bari video bheji hai, to yeh us ke chote tukre karta hai aur un par number lagata hai (1, 2, 3...). Yahan tukron ko **Segments** kehte hain.
+* **3. Network Layer (Post Office / City Address):** Yeh har tukre ke upar **Shehar aur Ghar ka Pata (IP Address)** likhta hai, aur dekhta hai ke kis raste se jaldi jayega. Yahan isay **Packets** kehte hain.
+* **2. Data Link Layer (Mohallay ka Postman):** Jab parcel mohallay mein pohanch jata hai, to yeh **Machine ka Asal Pata (MAC Address)** dekh kar sahi computer tak pohanchata hai. Yahan isay **Frames** kehte hain.
+* **1. Physical Layer (Sarak / Taar):** Yeh asal bijli ki taar (Ethernet) ya hawa ke signals (Wi-Fi) hain jin par data `0` aur `1` (**Bits**) ban kar daurta hai.
+
+---
+
+### **2. Yeh "Data $\rightarrow$ Segment $\rightarrow$ Packet $\rightarrow$ Frame $\rightarrow$ Bits" Kya Chakkar Hai?**
+
+Cheez andar **wahi aik hi (aap ka "Salam")** rehti hai! Bas jaise-jaise woh neeche utarti hai, har banda us par apna aik **sticker (Header)** chipkata jata hai:
+
+* Sticker nahi laga $\rightarrow$ **Data**
+* Transport ka sticker laga $\rightarrow$ **Segment**
+* IP Address ka sticker laga $\rightarrow$ **Packet**
+* MAC Address ka sticker laga $\rightarrow$ **Frame**
+* Taar mein chala gaya $\rightarrow$ **Bits (`0101`)**
+
+---
+
+### **3. OSI Model aur TCP/IP Model mein kya farq hai?**
+
+* **OSI Model (7 Layers):** Yeh sirf parhane aur samajhne ke liye banaya gaya ek **theory model** hai (is mein 7 alag log rakhe gaye).
+* **TCP/IP Model (4 Layers):** Jab asal mein internet banaya gaya, to engineers ne kaha *"7 logon ki zaroorat nahi, kaam jaldi karne ke liye kuch logon ko mila kar **4 log** kar do!"*
+* Upar wale **3 logon (7, 6, 5)** ka kaam mila kar **1 banda (Application Layer)** ko de diya.
+* Beech wale **2 log (4 aur 3)** bilkul waise hi rahe (**Transport** aur **Internet Layer**).
+* Neeche wale **2 logon (2 aur 1)** ka kaam mila kar **1 banda (Network Access Layer)** ko de diya.
+
+
+
+---
+
+### **Yaad Rakhne Ka Asaan Formula (Neeche se Upar):**
+
+> **P**lease **D**o **N**ot **T**hrow **S**ausage **P**izza **A**way
+
+1. **P**hysical
+2. **D**ata Link
+3. **N**etwork
+4. **T**ransport
+5. **S**ession
+6. **P**resentation
+7. **A**pplication
+
+Ab thora asaan laga? Agar kisi aik layer mein abhi bhi uljhan ho to seedha us ka naam bata dein!
 
 25-Nov-2026
 
