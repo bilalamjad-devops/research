@@ -586,5 +586,57 @@ Security aur privilege control barqarar rakhne ke liye operating system ko 3 fun
 * **Cisco** ka OS = **Cisco IOS**
 * **Ghar ke Wi-Fi Modem / Router** mein bhi apna **Embedded OS / Firmware** hota hai jo Wi-Fi aur internet ko chalata hai.
 
+---
+---
+---
+---
+
+
+## Topic 010 
+
+<img width="1280" height="960" alt="rollover_cable" src="https://github.com/user-attachments/assets/8b3852a2-44a8-45d5-87c8-e6caeb93563a" />
+
+Yeh **CS407** video **Cisco IOS** (router ya switch ke operating system) ko access aur configure karne ke main tareeqon ke baare mein hai.
+
+---
+
+### **1. Cisco IOS Access Karne ke 3 Main Tareeqay**
+
+* **Console Access (Pehli Baar Setup ke Liye):**
+* Jab naya router/switch aata hai aur us par koi IP address nahi hota, to sab se pehle isi tareeqay se connect karte hain.
+* Yeh **out-of-band** tareeqa hai (matlab is ke liye normal data network ya IP address ki zaroorat nahi hoti).
+* Is mein aik khas **rollover / console cable** aur laptop mein terminal software lagta hai.
+
+
+* **Telnet aur SSH (Door Se / Remote Access ke Liye):**
+* Jab router/switch par IP address set ho jaye, to network ke zariye door baith kar command line kholi ja sakti hai.
+* **SSH** behtar hai kyunki yeh data aur passwords ko **encrypt** (lock/code) karke bhejta hai, jabke **Telnet** plain text mein bhejta hai (is liye insecure hai).
+
+
+* **AUX (Auxiliary) Port (Purana Tareeqa):**
+* Yeh purana (legacy) **out-of-band** tareeqa hai jo telephone line / modem ke zariye door se access ke liye use hota tha.
+* Aaj kal ke naye networks mein yeh bohot kam use hota hai.
+
+
+
+---
+
+### **2. Mashhoor Terminal Programs (Software)**
+
+Router ya switch ki command line screen kholne ke liye yeh tools use hotay hain:
+
+* **PuTTY**
+* **Tera Term**
+* **HyperTerminal**
+* **OS X Terminal**
+
+---
+
+### **1-Line Mein Yaad Rakhein:**
+
+* **Console** = Pehli baar seedha cable se setup (bina IP ke)
+* **SSH** = Door se safe/encrypted remote access (Telnet se behtar)
+* **AUX** = Purana telephone-line remote access port
+
 25-Nov-2026
 
