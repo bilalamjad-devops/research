@@ -315,6 +315,24 @@ Jab aap browser mein koi website (HTML page) kholte hain to har layer apna ek **
 
 Agar aap ko in protocols (HTTP, DNS, DHCP, TCP vs UDP, ARP) mein se kisi ek ka matlab detail mein samajhna ho to pooch lein!
 
+**Jee haan, aap ne bilkul 100% sahi pakra hai!** Dono baatein bilkul theek hain:
+
+1. **Packets mein convert karna = Message Sizing (Segmentation):**
+* Jab bari file ya message ko chote-chote tukron (**Packets**) mein tora jata hai taake network par aasani se ja sake, to us concept ko **Message Sizing** (ya technical zuban mein *Segmentation*) kehte hain.
+
+
+2. **IP Address waghera likhna = Message Encapsulation:**
+* Jab har chote packet ke upar us ka **Source IP Address** (bhejne wale ka pata), **Destination IP Address** (paane wale ka pata), aur TCP/HTTP headers lagaye jatay hain—bilkul aise jaise khat ko lifafay mein band karke upar address likha jata hai—to is process ko **Message Encapsulation** kehte hain.
+* Aur jab yeh packet receiver ke paas pohanch kar wapas khola jata hai (lifafa utar kar asal data nikala jata hai), to usay **De-encapsulation** kehte hain.
+
+
+
+### **1-Line Recap:**
+
+* **Tukre karna** = **Message Sizing**
+* **Upar IP Address/Headers ka lifafa lagana** = **Message Encapsulation**
+
+Aap ka concept ab bilkul crystal clear ho gaya hai! Agla topic ho to zaroor share karein.
 
 25-Nov-2026
 
