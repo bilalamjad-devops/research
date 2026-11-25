@@ -490,5 +490,47 @@ Cheez andar **wahi aik hi (aap ka "Salam")** rehti hai! Bas jaise-jaise woh neec
 
 Ab thora asaan laga? Agar kisi aik layer mein abhi bhi uljhan ho to seedha us ka naam bata dein!
 
+### **1. "Sausage" ka kya matlab hai?**
+
+* **Sausage** (Urdu mein: *qeemay ka roll / seekh kabab jaisi khane ki cheez*) ek **food item** hai jo pizza ke upar topping ke tor par dala jata hai.
+* Networking mein is ka koi technical matlab **nahi** hai! Yeh sirf aik mazahiya jumla (**Mnemonic**) banaya gaya tha—*"Please Do Not Throw Sausage Pizza Away"* (Meharbani karke sausage pizza mat phenkein)—taake har lafz ke pehle harf (**P, D, N, T, S, P, A**) se 7 layers ke naam aasani se yaad ho jayein.
+
+---
+
+### **2. Data, Segment, Packet, Frame, Bits Yaad Rakhne Ka Asaan Formula**
+
+Is visual diagram mein aap har layer ke samne us ka **Data Unit (PDU)** dekh sakte hain (upar se neeche ki taraf):
+
+---
+
+#### **Upar se Neeche (Layer 7 se Layer 1 tak) Yaad Rakhne Ka Jumla:**
+
+> **D**on't **S**top **P**ouring **F**ree **B**iryani!
+> *(Muft biryani dalna mat rokein!)*
+
+Ab har pehle harf ko upar se neeche layers ke saath milayein:
+
+| Layer (Upar se Neeche) | Formula Ka Lafz | Data Unit (PDU) |
+| --- | --- | --- |
+| **7. Application** <br>
+
+<br> **6. Presentation** <br>
+
+<br> **5. Session** | **D**on't | **D**ata *(In teeno layers mein Data hi rehta hai)* |
+| **4. Transport** | **S**top | **S**egment |
+| **3. Network** | **P**ouring | **P**acket |
+| **2. Data Link** | **F**ree | **F**rame |
+| **1. Physical** | **B**iryani | **B**its (`0101...`) |
+
+---
+
+#### **Ek aur Desi Shortcut (Pehle 3 Harf):**
+
+Agar aap sirf beech wali 3 main layers (Transport, Network, Data Link) yaad rakhna chahein, to **SPF** (jo sunblock cream par likha hota hai!) yaad kar lein:
+
+* **S** = **S**egment (Transport Layer)
+* **P** = **P**acket (Network Layer)
+* **F** = **F**rame (Data Link Layer)
+
 25-Nov-2026
 
