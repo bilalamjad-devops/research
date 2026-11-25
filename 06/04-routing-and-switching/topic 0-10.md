@@ -46,5 +46,72 @@ Jab mukhtalif LANs, WANs, aur MANs ko routers aur infrastructure machines ke zar
 
 Agar aap ko is lecture ke MCQs ya short notes chahiye hon to bata dein!
 
+---
+---
+---
+
+
+Aap ke saare sawalon ke jawab bilkul seedhe aur asaan **Roman English** mein niche diye gaye hain:
+
+### **1. Kya DSL ka matlab Fiber Optics hota hai?**
+
+**Nahi!** DSL aur Fiber Optics bilkul alag cheezein hain:
+
+* **DSL (Digital Subscriber Line):** Yeh **purani copper (tanbay) wali telephone ki taar** par chalta hai (jaise purana PTCL broadband). Is mein bijli ke signals (electrical signals) travel karte hain.
+* **Fiber Optics (FTTH):** Is mein tanbay ki taar nahi hoti, balkay **sheeshay (glass) ke bareek dhaagay** hotay hain jin mein **roshni (light signals)** ke zariye data travel karta hai (jaise StormFiber, Nayatel, ya PTCL Flash Fiber). Fiber optics DSL se kayi guna zyada fast aur reliable hota hai.
+
+---
+
+### **2. DSL aur Cable Internet mein kya farq hai?**
+
+| Feature | DSL (Digital Subscriber Line) | Cable Internet |
+| --- | --- | --- |
+| **Taar (Cable)** | **Telephone line** (Twisted Pair copper wire) use hoti hai. | **Cable TV wali taar** (Coaxial cable) use hoti hai. |
+| **Connection Type** | Exchange se aap ke ghar tak **dedicated line** hoti hai. | Mohallay/gali ke logon ke saath **shared bandwidth** hoti hai. |
+| **Speed** | Distance barhne par speed kam ho jati hai (exchange se door ghar ho to slow). | Aam tor par DSL se fast hoti hai, lekin agar mohallay mein sab ek saath use karein to slow ho sakti hai. |
+
+---
+
+### **3. Cables ki 3 Main Types (Twisted Pair, Coaxial, Fiber Optic)**
+
+Jee haan, networking mein 3 barhi cables use hoti hain:
+
+1. **Twisted Pair Cable:** Aapas mein lipti hui tanbay ki taaren. Yeh **DSL** aur ghar/office ke andar **LAN (Ethernet)** mein use hoti hain.
+2. **Coaxial Cable:** Moti taar jis ke beech mein ek sakht tanbay ki taar aur upar jaali (shielding) hoti hai. Yeh **Cable TV** aur **Cable Internet** mein use hoti hai.
+3. **Fiber Optic Cable:** Sheeshay ya plastic ke bareek fibers jin mein **light** ke zariye data jata hai. Yeh sab se tez (high-speed) hoti hai.
+
+---
+
+### **4. Modem aur Wi-Fi Modem (Router) mein kya farq hai?**
+
+* **Modem (Modulator-Demodulator):** Yeh bahar se aane wali telephone/cable/fiber ki taar ke signals ko samajh kar computer ke language (digital data) mein badalta hai. Akela modem Wi-Fi signals nahi bhejta, us se sirf ek taar (Ethernet) nikal sakti hai.
+* **Wi-Fi Modem (Modem + Router combo):** Jo device aaj kal PTCL ya StormFiber wale ghar mein laga kar jatay hain, woh **2-in-1** hota hai—us ke andar **Modem** bhi hota hai (jo bahar se internet lata hai) aur **Wi-Fi Router** bhi hota hai (jo poore ghar mein wireless Wi-Fi signals phailata hai).
+
+---
+
+### **5. Cellular Network kya hai? (Ufone, Jazz, Telenor, Zong)**
+
+**Jee haan, bilkul!** Pakistan mein **Jazz, Zong, Ufone, aur Telenor** hi **Cellular Data Networks** hain.
+
+* Inhein "Cellular" is liye kehte hain kyunki poora shehar ya ilaqah chote-chote hisson (**Cells**) mein banta hota hai, aur har hissay mein ek **Mobile Tower** laga hota hai.
+* Jab aap mobile par **4G/5G Mobile Data** on karte hain, to aap ka phone inhi towers ke zariye internet se connect hota hai.
+
+---
+
+### **Summary Ek Nazar Mein:**
+
+* **DSL** = Telephone ki taar (Twisted Pair)
+* **Cable** = TV wali taar (Coaxial)
+* **Fiber** = Sheeshay ki taar + Light (Sab se fast)
+* **Cellular** = Mobile towers wale networks (Jazz, Zong, Ufone, Telenor)
+* **Wi-Fi Modem** = Woh box jo bahar se internet le kar ghar mein Wi-Fi banata hai.
+
+Agar kisi ek point par mazeed misal chahiye ho to zaroor poochein!
+
+---
+---
+---
+---
+
 25-Nov-2026
 
