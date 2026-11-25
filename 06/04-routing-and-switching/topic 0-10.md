@@ -214,6 +214,14 @@ Agar in mein se kisi bhi term (jaise Encapsulation, Flow Control, ya Unicast/Mul
 
 ## Topic 006 
 
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/36f04666-7393-4d39-a041-f89d3fbdaa67" />
+
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3369d4ad-ab22-4377-896c-018449f9f9ff" />
+
+
 Koi baat nahi! Chalein isay bilkul **aam zindagi ki misal (Online Shopping / TCS Parcel)** se samajhte hain, taake koi mushkil lafz beech mein na aaye.
 
 Sochhein aap ne Daraz se ek **Mobile Phone** order kiya hai. Aap ke mobile tak parcel pohanchne mein **4 departments (Layers)** mil kar kaam karte hain. Computer mein jab aap koi website kholte hain (jaise `google.com`), to bilkul yahi 4 layers kaam karti hain:
