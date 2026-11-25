@@ -512,17 +512,12 @@ Is visual diagram mein aap har layer ke samne us ka **Data Unit (PDU)** dekh sak
 Ab har pehle harf ko upar se neeche layers ke saath milayein:
 
 | Layer (Upar se Neeche) | Formula Ka Lafz | Data Unit (PDU) |
-
-| --- | --- | --- |
-| **7. Application** <br>
-<br> **6. Presentation** <br>
-<br> **5. Session** | **D**on't | **D**ata *(In teeno layers mein Data hi rehta hai)* |
+| :--- | :--- | :--- |
+| **7. Application**<br>**6. Presentation**<br>**5. Session** | **D**on't | **D**ata *(In teeno layers mein Data hi rehta hai)* |
 | **4. Transport** | **S**top | **S**egment |
 | **3. Network** | **P**ouring | **P**acket |
 | **2. Data Link** | **F**ree | **F**rame |
 | **1. Physical** | **B**iryani | **B**its (`0101...`) |
-
----
 
 #### **Ek aur Desi Shortcut (Pehle 3 Harf):**
 
