@@ -398,6 +398,27 @@ Is video (**CS407_Topic007** — Virtual University of Pakistan) ka asaan **Roma
 
 Agar kisi organization ka kaam mazeed aasan misal se samajhna ho to bata dein!
 
+**Jee haan, aap ke dono andazay bilkul 100% theek hain!**
+
+1. **Pehle Ethernet aaya, phir Wi-Fi aaya:**
+* **Ethernet (1970s / 1983 mein standard bana — IEEE 802.3):** Sab se pehle computers ko aapas mein jorne ke liye **taar (cable)** wala tareeqa bana tha, jisay Ethernet kehte hain.
+* **Wi-Fi (1997 mein standard bana — IEEE 802.11):** Baad mein jab bina taar (wirelessly) ke devices jorne ki zaroorat pari, to **Wi-Fi** aaya. (Isi liye IEEE ke numbering mein bhi `802.3` pehle aata hai aur `802.11` baad mein!).
+
+
+2. **LAN mein kya use hota hai? (Ethernet vs Wi-Fi):**
+* **Wired LAN (Taar wala LAN):** Is mein **Ethernet** use hoti hai (jaise computer labs ya offices mein neeli/peeli Ethernet cables computers ke peeche lagi hoti hain).
+* **Wireless LAN (WLAN):** Jab usi LAN mein hum taar ki jagah wireless signals use karein, to woh **Wi-Fi** ban jata hai.
+
+
+
+---
+
+### **1-Line Mein Yaad Rakhein:**
+
+* **Ethernet (`802.3`)** = Taar wala LAN (Pehle aaya)
+* **Wi-Fi (`802.11`)** = Bina taar wala LAN / WLAN (Baad mein aaya)
+
+Aap ke concepts bohat achi tarah clear ho rahe hain! Agla topic ho to bhej dein.
 
 ---
 ---
