@@ -44,5 +44,81 @@ Yehi tareeqa router aur switch dono par same kaam karta hai [[05:45](https://www
 
 **Video Link:** [http://www.youtube.com/watch?v=Cby3hmjFUwk](http://www.youtube.com/watch?v=Cby3hmjFUwk)
 
+---
+---
+---
+
+## Topic 012 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/23cd2d17-975f-4ca7-a8d4-733547bfc46c" />
+
+
+Koi baat nahi! Chalein isay bilkul **mobile ya WhatsApp / Google search ki misal** se samajhte hain, taake bilkul asaan lage.
+
+Sochhein aap router ke andar baithe hain aur usay command de rahe hain.
+
+---
+
+### **1. Command Likhne Ka Tareeqa**
+
+Jis tarah aap WhatsApp par kisi ko msg bhejte waqt likhte hain:
+
+* **Kis ko bhejna hai (`ping` / `show`)** $\rightarrow$ yeh **Command** hai.
+* **Kis cheez par / kis address par (`192.168.1.1`)** $\rightarrow$ yeh **Argument / Target** hai.
+
+Misal: `ping 192.168.1.1` = *"Check karo ke `192.168.1.1` tak raabta ho raha hai ya nahi."*
+
+---
+
+### **2. Jab Aap Ko Samajh Na Aaye ya Ghalti Ho (`?` aur Errors)**
+
+* **`?` (Sawal ka Nishan) = Madad Mangna:**
+* Jis tarah Google mein aadha word likhne par suggestions aatay hain, waise hi router mein `clock set ?` likh dein to woh khud bata deta hai ke aage kya likhna hai.
+
+
+* **Ambiguous Command = "Bohot Saare Option Hain":**
+* Agar aap sirf `c` likh dein, to router kahega: *"Bhai `c` se to `clock` bhi aata hai aur `clear` bhi—poora to likho!"*
+
+
+* **Incomplete Command = "Baat Adhoori Hai":**
+* Agar aap sirf `clock set` likh kar ruk jayein, to router kahega: *"Time to batao kitna set karna hai!"*
+
+
+* **Invalid Input (`^`) = "Yahan Ghalti Hai":**
+* Agar aap galat word likh dein, to router niche `^` ka teer laga kar bata deta hai ke ghalti kahan hai.
+
+
+
+---
+
+### **3. Shortcut Keys (Kaam Tez Karne Ke Liye)**
+
+* **`Tab`** = Aadha lafz likh kar `Tab` dabayein to router khud poora kar dega (bilkul phone ki auto-complete ki tarah).
+* **Up Arrow (`↑`)** = Pichli command wapas laane ke liye (jaise pichla msg dobara bhejna ho).
+* **`Ctrl + Shift + 6`** = Agar koi check/process lamba chal raha ho (jaise lamba `ping`) aur aap ko beech mein rokna ho, to is se rok lete hain.
+* **`Ctrl + C`** = Us waqt ki command ko cancel/band karne ke liye.
+
+---
+
+### **4. `show` Commands (Router Ki Report Card Dekhna)**
+
+Jab aap router ki haalat check karna chahein to `show` likh kar poochte hain:
+
+* **`show running-config`** = **Abhi Live Kya Chal Raha Hai** (RAM mein mojood settings — aise samjhein jaise table par rakha khula register).
+* **`show startup-config`** = **Save Kya Hua Hai** (NVRAM mein mehfooz backup settings — aise samjhein jaise almari mein lock register).
+* **`show interfaces`** = Router ki **ports/taaron** ki haalat (kaun si port on hai, off hai, ya IP kya laga hai).
+* **`show version`** = Router ke **OS ka version** aur woh kab on/reboot hua tha.
+* **`show flash`** = Router ki **Flash memory** mein konsi files pari hain.
+
+---
+
+### **Sirf 3 Cheezein Yaad Rakhein:**
+
+1. **`?`** = Madad lena
+2. **`Tab`** = Lafz poora karna
+3. **`running-config` vs `startup-config**` = Live (RAM) vs Saved (NVRAM)
+
+Ab kaisa laga? Agar kisi aik hisse ko aur zyada simple karna ho to us ka naam bata dein!
+
 
 25-Nov-2026
