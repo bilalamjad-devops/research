@@ -132,5 +132,8 @@ Ab kaisa laga? Agar kisi aik hisse ko aur zyada simple karna ho to us ka naam ba
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/99cf084c-4698-46ea-ae05-e154f44dc54b" />
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/05b1de1e-0bbf-4b4f-b07a-7a332f7b46f7" />
 
 25-Nov-2026
+
+26-Nov-2026
