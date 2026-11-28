@@ -1,6 +1,44 @@
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e521d364-f4e0-4d96-bfb9-60ea57e9ef0e" />
 
+
+f(x) = x^3 - 9x + 1 = 0 
+
+Put x = 2
+
+f(2) = 8 - 18 + 1 
+
+= -10 + 1
+
+= -9
+
+
+Put x = 4 
+
+f(4) = 64 - 36 + 1
+
+= 29 
+
+Mid Point = 2 + 4/2 = 6/2= 3 
+
+Put x = 3 
+
+f(3) = 27 - 27 + 1
+
+= 1
+
+Mid Point = 2 + 3/2 =5/2 = 2.5 
+
+Put 2.5 in f(x) = x^3 - 9x + 1 = 0 
+
+f(2.5) = (2.5)^3 - 9(2.5) + 1
+
+= 15.635 - 22.5 + 1
+
+= -5.865 
+
+Mid Point = 2.5 + 3 /2 = 
+
 Bilkul pareshan na hon, shuru mein ye thora confusing lagta hai lekin jab aap iske **2–3 main rules** pakar lete hain to bohot asaan ho jata hai [[12:04](https://www.youtube.com/watch?v=g59AM_8AYGI&t=724)].
 
 Video link: [http://www.youtube.com/watch?v=g59AM_8AYGI](http://www.youtube.com/watch?v=g59AM_8AYGI)
